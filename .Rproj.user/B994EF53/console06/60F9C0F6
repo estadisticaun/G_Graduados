@@ -1,833 +1,4 @@
 
-/lib/datatables/js/dataTables.bootstrap4.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/js/dataTables.foundation.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/js/dataTables.jqueryui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/js/dataTables.material.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/js/dataTables.semanticui.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/js/dataTables.uikit.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/js/jquery.dataTables.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/datatables/license.txt.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/jquery/LICENSE.txt.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/jquery/jquery.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/nouislider/jquery.nouislider.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/nouislider/jquery.nouislider.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/selectize/selectize.bootstrap3.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-binding-0.[0K4[?25l
-/lib/selectize/selectize.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/datatables-css-0.0.0/[0Kd[?25l
-atatables-crosstalk.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/j[0Kq
-uery.dataTables.extra.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/j[0Kq
-uery.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/js/jq[0Ku
-ery.dataTables.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.1[0K6
-/css/buttons.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.1[0K6
-/js/buttons.colVis.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.1[0K6
-/js/buttons.flash.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.1[0K6
-/js/buttons.html5.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.1[0K6
-/js/buttons.print.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.1[0K6
-/js/dataTables.buttons.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.[0K1
-6/css/keyTable.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.[0K1
-6/js/dataTables.keyTable.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.1[0K0
-.16/css/responsive.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.1[0K0
-.16/js/dataTables.responsive.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighl[0Ki
-ght-1.10.16/dataTables.searchHighlight.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighl[0Ki
-ght-1.10.16/dataTables.searchHighlight.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighl[0Ki
-ght-1.10.16/jquery.highlight.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/highchartct.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/highchartct.yaml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/highchartzero.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/highchartzero.yaml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/css/motion.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/custom/reset.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/custom/symbols-extra.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/custom/text-symbols.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/highcharts-3d.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/highcharts-more.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/highcharts.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/maps/modules/map.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/accessibility.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/annotations.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/boost-canvas.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/boost.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/broken-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/bullet.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/data.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/drag-panes.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/drilldown.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/export-data.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/funnel.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/gantt.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/grid-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/heatmap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/histogram-bellcurve.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/item-series.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/no-data-to-display.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/offline-exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/oldie.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/overlapping-datalabels.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/parallel-coordinates.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/pareto.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/sankey.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/series-label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/solid-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/static-scale.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/stock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/streamgraph.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/sunburst.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/treemap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/variable-pie.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/variwide.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/vector.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/windbarb.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/wordcloud.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/modules/xrange.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/highcharts-6.0.3/stock/highstock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6[0K.[?25l
-0/lib/proj4js/proj4.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/css/[0Km[?25l
-otion.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/cust[0Ko
-m/reset.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/cust[0Ko
-m/symbols-extra.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/cust[0Ko
-m/text-symbols.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/high[0Kc
-harts-3d.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/high[0Kc
-harts-more.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/high[0Kc
-harts.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/maps[0K/
-modules/map.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/accessibility.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/annotations.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/boost-canvas.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/boost.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/broken-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/bullet.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/drag-panes.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/drilldown.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/export-data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/funnel.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/gantt.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/grid-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/heatmap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/histogram-bellcurve.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/item-series.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/no-data-to-display.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/offline-exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/oldie.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/overlapping-datalabels.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/parallel-coordinates.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/pareto.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/sankey.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/series-label.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/solid-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/static-scale.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/stock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl[?25l
-es/streamgraph.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/sunburst.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/treemap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/variable-pie.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/variwide.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/vector.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/windbarb.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/wordcloud.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modu[0Kl
-es/xrange.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/stoc[0Kk
-/highstock.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/htmlwidgets-1.2/htmlw[0Ki
-dgets.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/LICENSE[0K.[?25l
-txt.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.[0Km
-in.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/jszip-1.10.16/jszip.m[0Ki
-n.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jqu[0Ke
-ry.nouislider.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jqu[0Ke
-ry.nouislider.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfma[0Kk
-e.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/sele[0Kc
-tize.bootstrap3.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/sele[0Kc
-tize.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "P"[0K[19G[?25h[?25l$ git commit -m "Pr"[0K[20G[?25h[?25l$ git commit -m "P"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "O"[0K[19G[?25h[?25l$ git commit -m "Ob"[0K[20G[?25h[?25l$ git commit -m "Obj"[0K[21G[?25h[?25l$ git commit -m "Obje"[0K[22G[?25h[?25l$ git commit -m "Objet"[0K[23G[?25h[?25l$ git commit -m "Objeto"[0K[24G[?25h[?25l$ git commit -m "Objetos"[0K[25G[?25h[?25l$ git commit -m "Objetos "[0K[26G[?25h[?25l$ git commit -m "Objetos g"[0K[27G[?25h[?25l$ git commit -m "Objetos gr"[0K[28G[?25h[?25l$ git commit -m "Objetos g"[0K[27G[?25h[?25l$ git commit -m "Objetos ga"[0K[28G[?25h[?25l$ git commit -m "Objetos g"[0K[?25h[27G[?25l$ git commit -m "Objetos gr"[0K[28G[?25h[?25l$ git commit -m "Objetos gra"[0K[29G[?25h[?25l$ git commit -m "Objetos graf"[0K[30G[?25h[?25l$ git commit -m "Objetos grafi"[0K[31G[?25h[?25l$ git commit -m "Objetos grafic"[0K[32G[?25h[?25l$ git commit -m "Objetos grafico"[0K[33G[?25h[?25l$ git commit -m "Objetos graficos"[0K[34G[?25h[?25l$ git commit -m "Objetos graficos "[0K[35G[?25h[?25l$ git commit -m "Objetos graficos g"[0K[36G[?25h[?25l$ git commit -m "Objetos graficos gr"[0K[37G[?25h[?25l$ git commit -m "Objetos graficos gra"[0K[38G[?25h[?25l$ git commit -m "Objetos graficos grad"[0K[39G[?25h[?25l$ git commit -m "Objetos graficos gradu"[0K[40G[?25h[?25l$ git commit -m "Objetos graficos gradua"[0K[41G[?25h[?25l$ git commit -m "Objetos graficos graduad"[0K[42G[?25h[?25l$ git commit -m "Objetos graficos graduado"[0K[43G[?25h[?25l$ git commit -m "Objetos graficos graduados"[0K[44G[?25h[?25l$ git commit -m "Objetos graficos graduados "[0K[45G[?25h[?25l$ git commit -m "Objetos graficos graduados p"[0K[46G[?25h[?25l$ git commit -m "Objetos graficos graduados pr"[0K[47G[?25h[?25l$ git commit -m "Objetos graficos graduados pre"[0K[48G[?25h[?25l$ git commit -m "Objetos graficos graduados preg"[0K[49G[?25h[?25l$ git commit -m "Objetos graficos graduados pregr"[0K[50G[?25h[?25l$ git commit -m "Objetos graficos graduados pregra"[0K[51G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrad"[0K[52G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado"[0K[53G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado "[0K[54G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado -"[0K[55G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - "[0K[56G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - c"[0K[57G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - ca"[0K[58G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - car"[0K[59G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - ca"[0K[58G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - c"[0K[57G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado - "[0K[56G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado -"[0K[55G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado "[0K[54G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado"[0K[53G[?25h[?25l
-[0K[?25h[master (root-commit) d91925d] Objetos graficos graduados pregrado[0K[?25l
- 328 files changed, 13012 insertions(+)[0K
- create mode 100644 .Rproj.user/B994EF53/console06/60F9C0F6[0K
- create mode 100644 .Rproj.user/B994EF53/console06/INDEX001[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-EF925DC1/4A9B33CA[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-EF925DC1/4A9B33CA-contents[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-EF925DC1/lock_file[0K
- create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
- create mode 100644 20182/Nal/Pregrado/A_edad.html[0K
- create mode 100644 20182/Nal/Pregrado/A_estrato.html[0K
- create mode 100644 20182/Nal/Pregrado/A_modalidad.html[0K
- create mode 100644 20182/Nal/Pregrado/A_nacionalidad.html[0K
- create mode 100644 20182/Nal/Pregrado/A_paes.html[0K
- create mode 100644 20182/Nal/Pregrado/A_peama.html[0K
- create mode 100644 20182/Nal/Pregrado/A_sede.html[0K
- create mode 100644 20182/Nal/Pregrado/A_sexo.html[0K
- create mode 100644 20182/Nal/Pregrado/A_snies.html[0K
- create mode 100644 20182/Nal/Pregrado/A_tipo.html[0K
- create mode 100644 20182/Nal/Pregrado/S_edad.html[0K
- create mode 100644 20182/Nal/Pregrado/S_estrato.html[0K
- create mode 100644 20182/Nal/Pregrado/S_modalidad.html[0K
- create mode 100644 20182/Nal/Pregrado/S_nacionalidad.html[0K
- create mode 100644 20182/Nal/Pregrado/S_paes.html[0K
- create mode 100644 20182/Nal/Pregrado/S_peama.html[0K
- create mode 100644 20182/Nal/Pregrado/S_sede.html[0K
- create mode 100644 20182/Nal/Pregrado/S_sexo.html[0K
- create mode 100644 20182/Nal/Pregrado/S_snies.html[0K
- create mode 100644 20182/Nal/Pregrado/S_tipo.html[0K
- create mode 100644 20182/Nal/Pregrado/Serie.html[0K
- create mode 100644 20182/Nal/Pregrado/T_edad.html[0K
- create mode 100644 20182/Nal/Pregrado/T_estrato.html[0K
- create mode 100644 20182/Nal/Pregrado/T_modalidad.html[0K
- create mode 100644 20182/Nal/Pregrado/T_nacionalidad.html[0K
- create mode 100644 20182/Nal/Pregrado/T_paes.html[0K
- create mode 100644 20182/Nal/Pregrado/T_peama.html[0K
- create mode 100644 20182/Nal/Pregrado/T_sede.html[0K
- create mode 100644 20182/Nal/Pregrado/T_sexo.html[0K
- create mode 100644 20182/Nal/Pregrado/T_snies.html[0K
- create mode 100644 20182/Nal/Pregrado/T_tipo.html[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/css/datatables-cro[0Ks
-stalk.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/css/autoFill.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/css/autoFill.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/css/autoFill.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/css/autoFill.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/css/autoFill.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/css/autoFill.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/js/autoFill.bootstrap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/js/autoFill.bootstrap4.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/js/autoFill.foundation.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/js/autoFill.jqueryui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/js/autoFill.semanticui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/AutoFill/js/dataTables.autoFill.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/css/buttons.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/css/buttons.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/css/buttons.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/css/buttons.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/css/buttons.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/css/buttons.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.bootstrap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.bootstrap4.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.colVis.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.flash.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.foundation.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.html5.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.jqueryui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.print.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/buttons.semanticui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/dataTables.buttons.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/jszip.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/pdfmake.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/js/vfs_fonts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Buttons/swf/flashExport.swf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/css/colReorder.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/css/colReorder.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/css/colReorder.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/css/colReorder.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/css/colReorder.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/css/colReorder.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/ColReorder/js/dataTables.colReorder.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/css/fixedColumns.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/css/fixedColumns.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/css/fixedColumns.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/css/fixedColumns.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/css/fixedColumns.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/css/fixedColumns.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedColumns/js/dataTables.fixedColumns.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/css/fixedHeader.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/css/fixedHeader.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/css/fixedHeader.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/css/fixedHeader.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/css/fixedHeader.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/css/fixedHeader.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/FixedHeader/js/dataTables.fixedHeader.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/css/keyTable.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/css/keyTable.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/css/keyTable.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/css/keyTable.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/css/keyTable.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/css/keyTable.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/KeyTable/js/dataTables.keyTable.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/css/responsive.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/css/responsive.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/css/responsive.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/css/responsive.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/css/responsive.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/css/responsive.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/js/dataTables.responsive.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/js/responsive.bootstrap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/js/responsive.bootstrap4.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/js/responsive.foundation.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/js/responsive.jqueryui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Responsive/js/responsive.semanticui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/css/rowGroup.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/css/rowGroup.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/css/rowGroup.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/css/rowGroup.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/css/rowGroup.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/css/rowGroup.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowGroup/js/dataTables.rowGroup.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/css/rowReorder.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/css/rowReorder.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/css/rowReorder.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/css/rowReorder.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/css/rowReorder.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/css/rowReorder.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/RowReorder/js/dataTables.rowReorder.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/css/scroller.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/css/scroller.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/css/scroller.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/css/scroller.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/css/scroller.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/css/scroller.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Scroller/js/dataTables.scroller.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/css/select.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/css/select.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/css/select.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/css/select.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/css/select.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/css/select.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ext[0Ke
-nsions/Select/js/dataTables.select.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plu[0Kg
-ins/natural/natural.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plu[0Kg
-ins/searchHighlight/dataTables.searchHighlight.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plu[0Kg
-ins/searchHighlight/dataTables.searchHighlight.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plu[0Kg
-ins/searchHighlight/jquery.highlight.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.bootstrap.extra.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.material.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-dataTables.uikit.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-jquery.dataTables.extra.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css[0K/
-jquery.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.bootstrap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.bootstrap4.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.foundation.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.jqueryui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.material.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.semanticui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kd
-ataTables.uikit.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/[0Kj
-query.dataTables.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/lic[0Ke
-nse.txt[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE[0K.
-txt[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/jquery.[0Km
-in.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jqu[0Ke
-ry.nouislider.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jqu[0Ke
-ry.nouislider.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/sele[0Kc
-tize.bootstrap3.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/sele[0Kc
-tize.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-css-0.0.0/datatables-crosstalk[0K.
-css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.ext[0Kr
-a.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min[0K.
-css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.[0Kj
-s[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTa[0Kb
-les.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.[0Km
-in.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.m[0Ki
-n.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.m[0Ki
-n.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.m[0Ki
-n.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.butt[0Ko
-ns.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.data[0KT
-ables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.key[0KT
-able.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/css/responsive.[0Kd
-ataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.r[0Ke
-sponsive.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTab[0Kl
-es.searchHighlight.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTab[0Kl
-es.searchHighlight.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.[0Kh
-ighlight.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.yam[0Kl
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/css/motion.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/custom/reset.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/custom/symbols-extra.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/custom/text-symbols.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/highcharts-3d.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/highcharts-more.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/highcharts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/maps/modules/map.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/accessibility.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/annotations.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/boost-canvas.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/boost.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/broken-axis.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/bullet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/data.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/drag-panes.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/drilldown.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/export-data.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/exporting.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/funnel.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/gantt.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/grid-axis.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/heatmap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/histogram-bellcurve.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/item-series.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/no-data-to-display.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/offline-exporting.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/oldie.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/overlapping-datalabels.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/parallel-coordinates.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/pareto.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
 .3/modules/sankey.js[0K
  create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
 .3/modules/series-label.js[0K
@@ -1047,5 +218,814 @@ no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
 /G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/windowlayoutstate.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/workbench-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/rmd-outputs.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3D9EFB7F/4A9B33CA.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/pr[0Ko[?25l
+j4-compressed.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/pr[0Ko[?25l
+j4.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/boots[0Kt[?25l
+rap-theme.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/boots[0Kt[?25l
+rap.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/boots[0Kt[?25l
+rap.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-[0Ka[?25l
+wesome.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts[0K/[?25l
+fontawesome-webfont.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts[0K/[?25l
+glyphicons-halflings-regular.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts[0K/[?25l
+ionicons.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionic[0Ko[?25l
+ns.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leafl[0Ke[?25l
+t.awesome-markers.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leafl[0Ke[?25l
+t.awesome-markers.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leafl[0Ke[?25l
+t.awesome-markers.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.[0Kj[?25l
+s.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet[0K-[?25l
+src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet[0K.[?25l
+js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks[?25l
+-2.0.3/bootstrap-theme.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/bootstrap.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/bootstrap.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/font-awesome.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/fonts/fontawesome-webfont.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks[?25l
+-2.0.3/fonts/glyphicons-halflings-regular.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/fonts/ionicons.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/ionicons.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/leaflet.awesome-markers.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/leaflet.awesome-markers.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
+-2.0.3/leaflet.awesome-markers.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+leaflet.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+leaflet.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/Leaflet.label/leaflet.label-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/Leaflet.label/leaflet.label.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/Leaflet.label/leaflet.label.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/jquery/jquery.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+lib/jquery/jquery.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-measure/leaflet-measure.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-measure/leaflet-measure.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-measure/leaflet-measure.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-omnivore/index.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-omnivore/leaflet-omnivore.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-omnivore/leaflet-omnivore.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-omnivore/package.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/CONTRIBUTING.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/README.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/bower.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/leaflet-providers.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/license.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/package.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet-providers/providers.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+lib/leaflet/leaflet-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+lib/leaflet/leaflet.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+lib/leafletfix/leafletfix.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet-MiniMap/Control.MiniMap.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet-MiniMap/Control.MiniMap.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet-MiniMap/Minimap-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.EasyButton/EasyButton-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.EasyButton/LICENSE.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.EasyButton/easy-button.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.EasyButton/easy-button.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.Graticule/Graticule-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.Graticule/L.Graticule.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.SimpleGraticule/L.SimpleGraticule.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.SimpleGraticule/L.SimpleGraticule.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.SimpleGraticule/SimpleGraticule-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.Terminator/L.Terminator.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.Terminator/Terminator-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.awesome-markers/bootstrap-theme.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/bootstrap.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/bootstrap.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/font-awesome.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/fonts/fontawesome-webfont.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.awesome-markers/fonts/glyphicons-halflings-regular.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/fonts/ionicons.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/ionicons.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/leaflet.awesome-markers.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/leaflet.awesome-markers.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.awesome-markers/leaflet.awesome-markers.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Leaflet.markercluster/MIT-LICENCE.txt.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.markercluster/MarkerCluster.Default.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.markercluster/MarkerCluster.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.markercluster/leaflet.markercluster-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.markercluster/leaflet.markercluster.freezable-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.markercluster/leaflet.markercluster.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Leaflet.markercluster/leaflet.markercluster.layersupport-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/Proj4Leaflet/proj4-compressed.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
+plugins/Proj4Leaflet/proj4.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/leaflet-locationfilter/locationfilter-bindings.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/leaflet-locationfilter/locationfilter.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/leaflet-locationfilter/locationfilter.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
+plugins/leaflet-providers-plugin/leaflet-providers-plugin.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3[?25l
+.1/EasyButton-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3
+.1/LICENSE.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3
+.1/easy-button.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3
+.1/easy-button.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/l[0Ke
+aflet.label-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/l[0Ke
+aflet.label.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/l[0Ke
+aflet.label.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1[0K/
+Control.MiniMap.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1[0K/
+Control.MiniMap.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1[0K/
+Minimap-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/CONTRIBUTING.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/README.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/bower.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/leaflet-providers.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/license.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/package.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
+27/providers.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-plu[0Kg
+in-1.1.0/leaflet-providers-plugin.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leaf[0Kl
+etfix.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
+/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hN[0K[?25l$ git commit -m "[0K[?25hM[0Ka[0Kp[0Ka[0Ks[0K[24G[?25l$ git commit -m "Mapas g[0K[?25hr[0Ka[0Kd[0Ku[0Ka[0Kd[0Ko[0Ks[0K"[0K[?25l
+[0K[?25h[master 397af23] Mapas graduados[0K[?25l
+ 220 files changed, 94302 insertions(+), 27 deletions(-)[0K
+ rename .Rproj.user/B994EF53/sources/s-EF925DC1/4A9B33CA-contents => .Rhistory (100%)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (100%)[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/rmd-outputs[0K
+ create mode 100644 .Rproj.user/B994EF53/saved_source_markers[0K
+ rename .Rproj.user/B994EF53/sources/{s-EF925DC1 => s-3D9EFB7F}/4A9B33CA (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-EF925DC1/lock_file => s-3D9EFB7F/4A9B33CA-contents[0K}
+ (100%)[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3D9EFB7F/lock_file[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_col1.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_comb.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_dpto.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_mun.html[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
+eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
+svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
+ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
+woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
+-regular.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
+-regular.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
+-regular.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
+-regular.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.p[0Kn
+g[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.[0Kp
+ng[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.pn[0Kg
+[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.c[0Ks
+s[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.j[0Ks
+[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.m[0Ki
+n.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/1px.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-th[0Ke
+me.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.mi[0Kn
+.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.mi[0Kn
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome[0K.
+min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAw[0Ke
+some.otf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
+some-webfont.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
+some-webfont.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
+some-webfont.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
+some-webfont.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
+ons-halflings-regular.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
+ons-halflings-regular.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
+ons-halflings-regular.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
+ons-halflings-regular.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
+s.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
+s.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
+s.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
+s.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-matte.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-matte@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-plain.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-shadow@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-soft.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
+s-soft@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min[0K.
+css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awes[0Ko
+me-markers.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awes[0Ko
+me-markers.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awes[0Ko
+me-markers.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/i[0Km
+ages/death.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/l[0Ke
+aflet.label-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/l[0Ke
+aflet.label.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/l[0Ke
+aflet.label.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.j[0Ks
+[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.m[0Ki
+n.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/cancel.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/cancel_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/check.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/check_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/focus.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/focus_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/rulers.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/rulers_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/start.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/start_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/trash.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+images/trash_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+leaflet-measure.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+leaflet-measure.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
+leaflet-measure.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
+/index.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
+/leaflet-omnivore.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
+/leaflet-omnivore.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
+/package.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/CONTRIBUTING.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/README.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/bower.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/css/gh-fork-ribbon.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/css/gh-fork-ribbon.ie.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/leaflet-providers.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/license.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/package.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
+s/providers.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0K1
+px.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Kl
+ayers-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Kl
+ayers.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Km
+arker-icon-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Km
+arker-icon.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Km
+arker-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet[0K-
+src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet[0K.
+css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet[0K.
+js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leaf[0Kl
+etfix.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/Control.MiniMap.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/Control.MiniMap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/Control.MiniMap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/Control.MiniMap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/Minimap-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/images/toggle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
+Map/images/toggle.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
+Button/EasyButton-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
+Button/LICENSE[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
+Button/easy-button.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
+Button/easy-button.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gra[0Kt
+icule/Graticule-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gra[0Kt
+icule/L.Graticule.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Sim[0Kp
+leGraticule/L.SimpleGraticule.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Sim[0Kp
+leGraticule/L.SimpleGraticule.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Sim[0Kp
+leGraticule/SimpleGraticule-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ter[0Km
+inator/L.Terminator.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ter[0Km
+inator/Terminator-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/bootstrap-theme.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/font-awesome.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/FontAwesome.otf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/glyphicons-halflings-regular.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/ionicons.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/ionicons.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/ionicons.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/fonts/ionicons.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-matte.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-matte@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-plain.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-shadow@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-soft.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/images/markers-soft@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/ionicons.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/leaflet.awesome-markers.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/leaflet.awesome-markers.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awe[0Ks
+ome-markers/leaflet.awesome-markers.min.js[0K
+ rename 20182/Nal/Pregrado/libraryjs/{jquery-1.12.4/LICENSE.txt => leaflet-binding-1.1.0/p[0Kl
+ugins/Leaflet.markercluster/MIT-LICENCE.txt} (63%)[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.mar[0Kk
+ercluster/MarkerCluster.Default.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.mar[0Kk
+ercluster/MarkerCluster.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.mar[0Kk
+ercluster/leaflet.markercluster-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.mar[0Kk
+ercluster/leaflet.markercluster.freezable-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.mar[0Kk
+ercluster/leaflet.markercluster.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.mar[0Kk
+ercluster/leaflet.markercluster.layersupport-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafle[0Kt
+/proj4-compressed.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafle[0Kt
+/proj4.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafle[0Kt
+/proj4leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-loc[0Ka
+tionfilter/img/filter-icon.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-loc[0Ka
+tionfilter/img/move-handle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-loc[0Ka
+tionfilter/img/resize-handle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-loc[0Ka
+tionfilter/locationfilter-bindings.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-loc[0Ka
+tionfilter/locationfilter.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-loc[0Ka
+tionfilter/locationfilter.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-pro[0Kv
+iders-plugin/leaflet-providers-plugin.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-bindi[0Kn
+g.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min[0K.
+css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min[0K.
+js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribb[0Ko
+n.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribb[0Ko
+n.ie.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/leaflet-provider[0Ks
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-pr[0Ko
+viders-plugin.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
+/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 158, done.[0K[?25l
+[0K[?25hDelta compression using up to 8 threads.[0K[?25l
+Compressing objects:  32% (48/150)[0K[1G[?25h[?25lCompressing objects:  87% (131/150)[0K[1G[?25h[?25lCompressing objects:  90% (135/150)[0K[1G[?25hCompressing objects: 100% (150/150), done.[0K[?25l
+Writing objects:  11% (18/158)[0K[1G[?25h[?25lWriting objects:  11% (18/158), 984.00 KiB | 1.14 MiB/s[0K[1G[?25h[?25lWriting objects:  12% (19/158), 984.00 KiB | 1.14 MiB/s[0K[1G[?25h[?25lWriting objects:  13% (21/158), 2.08 MiB | 1.55 MiB/s[0K[1G[?25h[?25lWriting objects:  15% (24/158), 2.08 MiB | 1.55 MiB/s[0K[1G[?25h[?25lWriting objects:  20% (32/158), 2.08 MiB | 1.55 MiB/s[0K[1G[?25h[?25lWriting objects:  21% (34/158), 2.08 MiB | 1.55 MiB/s[0K[1G[?25h[?25lWriting objects:  22% (35/158), 4.38 MiB | 2.38 MiB/s[0K[1G[?25h[?25lWriting objects:  26% (42/158), 4.38 MiB | 2.38 MiB/s[0K[1G[?25h[?25lWriting objects:  27% (43/158), 4.38 MiB | 2.38 MiB/s[0K[1G[?25h[?25lWriting objects:  32% (51/158), 4.38 MiB | 2.38 MiB/s[0K[1G[?25h[?25lWriting objects:  36% (57/158), 4.38 MiB | 2.38 MiB/s[0K[1G[?25h[?25lWriting objects:  44% (70/158), 4.38 MiB | 2.38 MiB/s[0K[2G[?25h[?25lWriting objects:  91% (144/158), 4.38 MiB | 2.38 MiB/s[0K[1G[?25hWriting objects: 100% (158/158), 5.70 MiB | 2.36 MiB/s, done.[0K[?25l
+Total 158 (delta 7), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:   0% (0/7)[0K[1G[?25hremote: Resolving deltas: 100% (7/7), completed with 3 local objects.[0K[?25l
+[0K[?25hTo https://github.com/estadisticaun/G_Graduados.git[0K[?25l
+   d91925d..397af23  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
+/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
+/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
+/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3D9EFB7F/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3D9EFB7F/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3D9EFB7F/lock_file[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-D53A023D/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
+/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+[0K[9G[?25h[?25l        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3D9EFB7F/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3D9EFB7F/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3D9EFB7F/lock_file[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-504DFE52/[0m[0K
+        [0;31mConsultas/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
