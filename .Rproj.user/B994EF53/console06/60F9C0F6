@@ -1,730 +1,4 @@
 
-.3/modules/sankey.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/series-label.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/solid-gauge.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/static-scale.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/stock.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/streamgraph.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/sunburst.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/treemap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/variable-pie.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/variwide.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/vector.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/windbarb.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/wordcloud.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/modules/xrange.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/annotations.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/draggable-legend.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/draggable-points.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/export-csv.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/grouped-categories.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/highcharts-regression.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/motion.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/multico[0K[?25hlor_series.js[0K[?25l
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/pattern-fill-v2.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/plugins/tooltip-delay.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.[0K0
-.3/stock/highstock.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/[0Kh
-tmlwdgtgrid.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery[0K.
-min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4[0K.
-js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/css/motion.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/reset.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/data.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/histogram-bellcu[0Kr
-ve.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/no-data-to-displ[0Ka
-y.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/offline-exportin[0Kg
-.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/overlapping-data[0Kl
-abels.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/parallel-coordin[0Ka
-tes.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/stock.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/vector.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-legend[0K.
-js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-points[0K.
-js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/grouped-categori[0Ke
-s.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/highcharts-regre[0Ks
-sion.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/multicolor_serie[0Ks
-.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.[0Kj
-s[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.11.1/jquery.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/LICENSE.txt[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/jszip-1.10.16/jszip.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.c[0Ks
-s[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.j[0Ks
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
- create mode 100644 G_Graduados.Rproj[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "Objetos graficos graduados pregrado"[0K[?25h[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is based on 'origin/master', but the upstream is gone.[0K
-  (use "git branch --unset-upstream" to fixup)[0K
-[0K
-Changes not staged for commit:[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
-[0K
-no changes added to commit[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 314, done.[0K[?25l
-[0K[?25hDelta compression using up to 8 threads.[0K[?25l
-Compressing objects:  40% (119/296)[0K[1G[?25hCompressing objects: 100% (296/296), done.[0K[?25l
-Writing objects:  17% (55/314)[0K[1G[?25h[?25lWriting objects:  31% (98/314)[0K[1G[?25h[?25lWriting objects:  49% (154/314)[0K[1G[?25h[?25lWriting objects:  81% (255/314)[0K[1G[?25h[?25lWriting objects:  89% (280/314)[0K[1G[?25hWriting objects: 100% (314/314), 1.09 MiB | 995.00 KiB/s, done.[0K[?25l
-Total 314 (delta 52), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  71% (37/52)[0K[1G[?25hremote: Resolving deltas: 100% (52/52), done.[0K[?25l
-[0K[?25hTo https://github.com/estadisticaun/G_Graduados.git[0K[?25l
- * [new branch]      master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-EF925DC1/4A9B33CA[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-EF925DC1/4A9B33CA-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-EF925DC1/lock_file[0m[0K
-        [0;31mdeleted:    20182/Nal/Pregrado/libraryjs/jquery-1.12.4/LICENSE.txt[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/B994EF53/pcs/[0m[0K
-        [0;31m.Rproj.user/B994EF53/rmd-outputs[0m[0K
-        [0;31m.Rproj.user/B994EF53/saved_source_markers[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-3D9EFB7F/[0m[0K
-        [0;31m20182/Nal/Pregrado/Nac_col1.html[0m[0K
-        [0;31m20182/Nal/Pregrado/Nac_comb.html[0m[0K
-        [0;31m20182/Nal/Pregrado/Nac_dpto.html[0m[0K
-        [0;31m20182/Nal/Pregrado/Nac_mun.html[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.js[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/[0m[0K
-        [0;31m20182/Nal/Pregrado/libraryjs/leafletfix-1.0.0/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/windowlayoutstate.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/workbench-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/rmd-outputs.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3D9EFB7F/4A9B33CA.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/pr[0Ko[?25l
-j4-compressed.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/pr[0Ko[?25l
-j4.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/boots[0Kt[?25l
-rap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/boots[0Kt[?25l
-rap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/boots[0Kt[?25l
-rap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-[0Ka[?25l
-wesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts[0K/[?25l
-fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts[0K/[?25l
-glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts[0K/[?25l
-ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionic[0Ko[?25l
-ns.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leafl[0Ke[?25l
-t.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leafl[0Ke[?25l
-t.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leafl[0Ke[?25l
-t.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet[0K-[?25l
-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks[?25l
--2.0.3/bootstrap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/font-awesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/fonts/fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks[?25l
--2.0.3/fonts/glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/fonts/ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/ionicons.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/leaflet.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/leaflet.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarker[0Ks
--2.0.3/leaflet.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-leaflet.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-leaflet.yaml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/Leaflet.label/leaflet.label-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/Leaflet.label/leaflet.label.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/Leaflet.label/leaflet.label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/jquery/jquery.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-lib/jquery/jquery.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-measure/leaflet-measure.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-measure/leaflet-measure.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-measure/leaflet-measure.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-omnivore/index.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-omnivore/leaflet-omnivore.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-omnivore/leaflet-omnivore.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-omnivore/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/CONTRIBUTING.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/README.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/bower.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/leaflet-providers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/license.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet-providers/providers.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-lib/leaflet/leaflet-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-lib/leaflet/leaflet.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-lib/leafletfix/leafletfix.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet-MiniMap/Control.MiniMap.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet-MiniMap/Control.MiniMap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet-MiniMap/Minimap-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.EasyButton/EasyButton-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.EasyButton/LICENSE.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.EasyButton/easy-button.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.EasyButton/easy-button.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.Graticule/Graticule-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.Graticule/L.Graticule.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.SimpleGraticule/L.SimpleGraticule.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.SimpleGraticule/L.SimpleGraticule.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.SimpleGraticule/SimpleGraticule-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.Terminator/L.Terminator.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.Terminator/Terminator-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.awesome-markers/bootstrap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/font-awesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/fonts/fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.awesome-markers/fonts/glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/fonts/ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/ionicons.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/leaflet.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/leaflet.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.awesome-markers/leaflet.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Leaflet.markercluster/MIT-LICENCE.txt.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.markercluster/MarkerCluster.Default.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.markercluster/MarkerCluster.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.markercluster/leaflet.markercluster-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.markercluster/leaflet.markercluster.freezable-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.markercluster/leaflet.markercluster.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Leaflet.markercluster/leaflet.markercluster.layersupport-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/Proj4Leaflet/proj4-compressed.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/
-plugins/Proj4Leaflet/proj4.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/leaflet-locationfilter/locationfilter-bindings.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/leaflet-locationfilter/locationfilter.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/leaflet-locationfilter/locationfilter.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0[0K/[?25l
-plugins/leaflet-providers-plugin/leaflet-providers-plugin.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3[?25l
-.1/EasyButton-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3
-.1/LICENSE.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3
-.1/easy-button.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.[0K3
-.1/easy-button.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/l[0Ke
-aflet.label-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/l[0Ke
-aflet.label.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/l[0Ke
-aflet.label.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1[0K/
-Control.MiniMap.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1[0K/
-Control.MiniMap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1[0K/
-Minimap-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/CONTRIBUTING.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/README.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/bower.json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/leaflet-providers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/license.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0[0K.
-27/providers.json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leaflet-providers-plu[0Kg
-in-1.1.0/leaflet-providers-plugin.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20182/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leaf[0Kl
-etfix.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduado[0Ks
-/G_Graduados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hN[0K[?25l$ git commit -m "[0K[?25hM[0Ka[0Kp[0Ka[0Ks[0K[24G[?25l$ git commit -m "Mapas g[0K[?25hr[0Ka[0Kd[0Ku[0Ka[0Kd[0Ko[0Ks[0K"[0K[?25l
-[0K[?25h[master 397af23] Mapas graduados[0K[?25l
- 220 files changed, 94302 insertions(+), 27 deletions(-)[0K
- rename .Rproj.user/B994EF53/sources/s-EF925DC1/4A9B33CA-contents => .Rhistory (100%)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (100%)[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/files-pane.pper[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/source-pane.pper[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/workbench-pane.pper[0K
- create mode 100644 .Rproj.user/B994EF53/rmd-outputs[0K
- create mode 100644 .Rproj.user/B994EF53/saved_source_markers[0K
- rename .Rproj.user/B994EF53/sources/{s-EF925DC1 => s-3D9EFB7F}/4A9B33CA (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-EF925DC1/lock_file => s-3D9EFB7F/4A9B33CA-contents[0K}
- (100%)[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-3D9EFB7F/lock_file[0K
- create mode 100644 20182/Nal/Pregrado/Nac_col1.html[0K
- create mode 100644 20182/Nal/Pregrado/Nac_comb.html[0K
- create mode 100644 20182/Nal/Pregrado/Nac_dpto.html[0K
- create mode 100644 20182/Nal/Pregrado/Nac_mun.html[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
-eot[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
-svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
-ttf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont[0K.
-woff[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
--regular.eot[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
--regular.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
--regular.ttf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halfling[0Ks
--regular.woff[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.p[0Kn
-g[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.[0Kp
-ng[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.pn[0Kg
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.c[0Ks
-s[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.j[0Ks
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.m[0Ki
-n.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/1px.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-th[0Ke
-me.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.mi[0Kn
-.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.mi[0Kn
-.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome[0K.
-min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAw[0Ke
-some.otf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
-some-webfont.eot[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
-some-webfont.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
-some-webfont.ttf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontaw[0Ke
-some-webfont.woff[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
-ons-halflings-regular.eot[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
-ons-halflings-regular.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
-ons-halflings-regular.ttf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphi[0Kc
-ons-halflings-regular.woff[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
-s.eot[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
-s.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
-s.ttf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionico[0Kn
-s.woff[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-matte.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-matte@2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-plain.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-shadow.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-shadow@2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-soft.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/marke[0Kr
-s-soft@2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min[0K.
-css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awes[0Ko
-me-markers.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awes[0Ko
-me-markers.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awes[0Ko
-me-markers.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/i[0Km
-ages/death.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/l[0Ke
-aflet.label-src.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/l[0Ke
-aflet.label.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/l[0Ke
-aflet.label.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.j[0Ks
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.m[0Ki
-n.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/cancel.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/cancel_@2X.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/check.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/check_@2X.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/focus.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/focus_@2X.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/rulers.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/rulers_@2X.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/start.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/start_@2X.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-images/trash.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
 images/trash_@2X.png[0K
  create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
 leaflet-measure.css[0K
@@ -1022,6 +296,733 @@ Untracked files:[0K
 [0K
         [0;31m.Rproj.user/B994EF53/sources/s-504DFE52/[0m[0K
         [0;31mConsultas/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-504DFE52/4A9B33CA.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4-comp[0Kr[?25l
+essed.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/bootstrap-the[0Km[?25l
+e.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min[0K.[?25l
+css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min[0K.[?25l
+js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/font-awesome.[0Km[?25l
+in.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawe[0Ks[?25l
+ome-webfont.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphic[0Ko[?25l
+ns-halflings-regular.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicon[0Ks[?25l
+.svg.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/ionicons.min.[0Kc[?25l
+ss.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/leaflet.aweso[0Km[?25l
+e-markers.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/leaflet.aweso[0Km[?25l
+e-markers.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/leaflet.aweso[0Km[?25l
+e-markers.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/htmlwidgets-1.2/htmlwidgets.j[0Ks[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/jquery-1.12.4/jquery.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/jquery-1.12.4/jquery.min.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-0.7.7/leaflet-src.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-0.7.7/leaflet.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kb[?25l
+ootstrap-theme.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kb
+ootstrap.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kb
+ootstrap.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kf
+ont-awesome.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kf
+onts/fontawesome-webfont.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kf
+onts/glyphicons-halflings-regular.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kf
+onts/ionicons.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Ki
+onicons.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kl
+eaflet.awesome-markers.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kl
+eaflet.awesome-markers.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/[0Kl
+eaflet.awesome-markers.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/leaflet[0K.
+js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/leaflet[0K.[?25l
+yaml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/Lea[0Kf[?25l
+let.label/leaflet.label-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/Lea[0Kf[?25l
+let.label/leaflet.label.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hw[0Karning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/Lea[0Kf[?25l
+let.label/leaflet.label.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/jqu[0Ke[?25l
+ry/jquery.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/jqu[0Ke
+ry/jquery.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-measure/leaflet-measure.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-measure/leaflet-measure.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-measure/leaflet-measure.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-omnivore/index.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-omnivore/leaflet-omnivore.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-omnivore/leaflet-omnivore.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-omnivore/package.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-providers/CONTRIBUTING.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-providers/README.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-providers/bower.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-providers/leaflet-providers.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-providers/license.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let-providers/package.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf
+let-providers/providers.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf[?25l
+let/leaflet-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf
+let/leaflet.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/lea[0Kf
+letfix/leafletfix.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet-MiniMap/Control.MiniMap.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet-MiniMap/Control.MiniMap.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet-MiniMap/Minimap-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.EasyButton/EasyButton-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.EasyButton/LICENSE.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.EasyButton/easy-button.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.EasyButton/easy-button.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.Graticule/Graticule-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.Graticule/L.Graticule.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.SimpleGraticule/L.SimpleGraticule.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.SimpleGraticule/L.SimpleGraticule.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.SimpleGraticule/SimpleGraticule-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.Terminator/L.Terminator.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.Terminator/Terminator-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.awesome-markers/bootstrap-theme.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/bootstrap.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/bootstrap.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/font-awesome.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/fonts/fontawesome-webfont.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/fonts/glyphicons-halflings-regular.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/fonts/ionicons.svg.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/ionicons.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/leaflet.awesome-markers.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/leaflet.awesome-markers.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.awesome-markers/leaflet.awesome-markers.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.markercluster/MIT-LICENCE.txt.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.markercluster/MarkerCluster.Default.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.markercluster/MarkerCluster.css.[0K
+The file will have its original line endings in your working directory.[0K
+w[0K[?25harning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.markercluster/leaflet.markercluster-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.markercluster/leaflet.markercluster.freezable-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Leaflet.markercluster/leaflet.markercluster.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+Leaflet.markercluster/leaflet.markercluster.layersupport-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Proj4Leaflet/proj4-compressed.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+Proj4Leaflet/proj4.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+leaflet-locationfilter/locationfilter-bindings.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+leaflet-locationfilter/locationfilter.css.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/[?25l
+leaflet-locationfilter/locationfilter.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins[0K/
+leaflet-providers-plugin/leaflet-providers-plugin.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/Easy[0KB[?25l
+utton-binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/LICE[0KN
+SE.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/easy[0K-
+button.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/easy[0K-
+button.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-label-0.2.2/leaflet.l[0Ka
+bel-src.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-label-0.2.2/leaflet.l[0Ka
+bel.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-label-0.2.2/leaflet.l[0Ka
+bel.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-minimap-3.3.1/Control[0K.
+MiniMap.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-minimap-3.3.1/Control[0K.
+MiniMap.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-minimap-3.3.1/Minimap[0K-
+binding.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/CONT[0KR
+IBUTING.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/READ[0KM
+E.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/bowe[0Kr
+.json.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/leaf[0Kl[?25l
+et-providers.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/lice[0Kn
+se.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/pack[0Ka
+ge.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/prov[0Ki
+ders.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-plugin-1.1.[0K0
+/leaflet-providers-plugin.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in Consultas/libraryjs/leafletfix-1.0.0/leafletfix.c[0Ks
+s.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hM[0Ka[0Kp[0Ka[0K[23G[?25l$ git commit -m "Mapa m[0K[?25ha[0K[?25l$ git commit -m "Mapa m[0K[?25h[?25l$ git commit -m "Mapa[0K[23G[?25h[?25l$ git commit -m "Mapa g[0K[?25hr[0Ka[0Kd[0Ku[0Ka[0Kd[0Ko[0Ks[0K[33G[?25l$ git commit -m "Mapa graduados c[0K[?25hu[0Kn[0K[?25l$ git commit -m "Mapa graduados cu[0K[?25h[?25l$ git commit -m "Mapa graduados c[0K[?25h[?25l$ git commit -m "Mapa graduados[0K[33G[?25h[32G[33G[?25l$ git commit -m "Mapa graduados p[0K[?25hr[0Ke[0Kg[0Kr[0Ka[0Kd[0Ko[0K[42G[?25l$ git commit -m "Mapa graduados pregrado c[0K[?25hu[0Kn[0Kd[0Ki[0Kn[0Ka[0Km[0Ka[0Kr[0Kc[0Ka[0K[55G[?25l$ git commit -m "Mapa graduados pregrado cundinamarca 2[0K[?25h0[0K1[0K8[0K2[0K"[0K[?25l
+[0K[?25h[master 15fa8bd] Mapa graduados pregrado cundinamarca 20182[0K[?25l
+ 212 files changed, 94788 insertions(+), 830 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (87%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-3D9EFB7F => s-504DFE52}/4A9B33CA (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-3D9EFB7F => s-504DFE52}/4A9B33CA-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-3D9EFB7F => s-504DFE52}/lock_file (100%)[0K
+ create mode 100644 Consultas/Grad_nac_cundinamarca.html[0K
+ create mode 100644 Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
+ create mode 100644 Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
+ create mode 100644 Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regula[0Kr
+.eot[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regula[0Kr
+.svg[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regula[0Kr
+.ttf[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regula[0Kr
+.woff[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
+ create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
+ create mode 100644 Consultas/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
+ create mode 100644 Consultas/libraryjs/jquery-1.12.4/jquery.js[0K
+ create mode 100644 Consultas/libraryjs/jquery-1.12.4/jquery.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/1px.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/layers.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/leaflet.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-0.7.7/leaflet.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.[0Kc
+ss[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.ot[0Kf
+[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-we[0Kb
+font.eot[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-we[0Kb
+font.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-we[0Kb
+font.ttf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-we[0Kb
+font.woff[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-hal[0Kf
+lings-regular.eot[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-hal[0Kf
+lings-regular.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-hal[0Kf
+lings-regular.ttf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-hal[0Kf
+lings-regular.woff[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte[0K.
+png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte[0K@
+2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain[0K.
+png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shado[0Kw
+.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shado[0Kw
+@2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.[0Kp
+ng[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@[0K2
+x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-mark[0Ke
+rs.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-mark[0Ke
+rs.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-mark[0Ke
+rs.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/de[0Ka
+th.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.l[0Ka
+bel-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.l[0Ka
+bel.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.l[0Ka
+bel.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kc
+ancel.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kc
+ancel_@2X.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kc
+heck.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kc
+heck_@2X.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kf
+ocus.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kf
+ocus_@2X.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kr
+ulers.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kr
+ulers_@2X.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Ks
+tart.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Ks
+tart_@2X.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kt
+rash.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/[0Kt
+rash_@2X.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet[0K-
+measure.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet[0K-
+measure.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet[0K-
+measure.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.[0Kj
+s[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leafle[0Kt
+-omnivore.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leafle[0Kt
+-omnivore.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/packag[0Ke
+.json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTR[0KI
+BUTING.md[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/READM[0KE
+.md[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower[0K.
+json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/g[0Kh
+-fork-ribbon.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/g[0Kh
+-fork-ribbon.ie.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leafl[0Ke
+t-providers.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/licen[0Ks
+e.md[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/packa[0Kg
+e.json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/provi[0Kd
+ers.json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2[0Kx
+.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.p[0Kn
+g[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-i[0Kc
+on-2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-i[0Kc
+on.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-s[0Kh
+adow.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.c[0Ks
+s[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Con[0Kt
+rol.MiniMap.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Con[0Kt
+rol.MiniMap.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Con[0Kt
+rol.MiniMap.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Con[0Kt
+rol.MiniMap.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Min[0Ki
+map-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/ima[0Kg
+es/toggle.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/ima[0Kg
+es/toggle.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/[0KE
+asyButton-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/[0KL
+ICENSE[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/[0Ke
+asy-button.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/[0Ke
+asy-button.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/G[0Kr
+aticule-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L[0K.
+Graticule.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGrati[0Kc
+ule/L.SimpleGraticule.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGrati[0Kc
+ule/L.SimpleGraticule.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGrati[0Kc
+ule/SimpleGraticule-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/[0KL
+.Terminator.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/[0KT
+erminator-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/bootstrap-theme.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/bootstrap.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/bootstrap.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/font-awesome.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/FontAwesome.otf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/glyphicons-halflings-regular.woff[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/ionicons.eot[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/ionicons.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/ionicons.ttf[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/fonts/ionicons.woff[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-matte.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-matte@2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-plain.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-shadow.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-shadow@2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-soft.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/images/markers-soft@2x.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/ionicons.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/leaflet.awesome-markers.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/leaflet.awesome-markers.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mar[0Kk
+ers/leaflet.awesome-markers.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/MIT-LICENCE.txt[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/MarkerCluster.Default.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/MarkerCluster.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/leaflet.markercluster-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/leaflet.markercluster.freezable-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/leaflet.markercluster.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markerclust[0Ke
+r/leaflet.markercluster.layersupport-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-[0Kc
+ompressed.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.[0Kj
+s[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4l[0Ke
+aflet.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfil[0Kt
+er/img/filter-icon.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfil[0Kt
+er/img/move-handle.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfil[0Kt
+er/img/resize-handle.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfil[0Kt
+er/locationfilter-bindings.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfil[0Kt
+er/locationfilter.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfil[0Kt
+er/locationfilter.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-p[0Kl
+ugin/leaflet-providers-plugin.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.cs[0Ks
+[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 Consultas/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-[0Kp
+lugin.js[0K
+ create mode 100644 Consultas/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 11, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (10/10), done.[0K
+Writing objects:  81% (9/11)[0K[1G[?25h[?25lWriting objects:  81% (9/11), 984.00 KiB | 1.20 MiB/s[0K[1G[?25hWriting objects: 100% (11/11), 1.78 MiB | 1.43 MiB/s, done.[0K[?25l
+Total 11 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 1 vulnerability on estadisticaun/G_Graduados's default branch (1 mod[0Ke
+rate). To find out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Graduados/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Graduados.git[0K
+   397af23..15fa8bd  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-504DFE52/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-504DFE52/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-504DFE52/lock_file[0m[0K
+        [0;31mmodified:   Consultas/Grad_nac_cundinamarca.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-AC79A3FB/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
