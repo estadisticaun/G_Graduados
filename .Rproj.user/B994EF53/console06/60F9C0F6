@@ -1,88 +1,4 @@
 
-images/trash_@2X.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-leaflet-measure.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-leaflet-measure.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure[0K/
-leaflet-measure.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
-/index.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
-/leaflet-omnivore.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
-/leaflet-omnivore.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivor[0Ke
-/package.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/CONTRIBUTING.md[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/README.md[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/bower.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/css/gh-fork-ribbon.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/css/gh-fork-ribbon.ie.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/leaflet-providers.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/license.md[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/package.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provide[0Kr
-s/providers.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0K1
-px.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Kl
-ayers-2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Kl
-ayers.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Km
-arker-icon-2x.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Km
-arker-icon.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/[0Km
-arker-shadow.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet[0K-
-src.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet[0K.
-css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet[0K.
-js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leaf[0Kl
-etfix.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/Control.MiniMap.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/Control.MiniMap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/Control.MiniMap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/Control.MiniMap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/Minimap-binding.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/images/toggle.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Min[0Ki
-Map/images/toggle.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
-Button/EasyButton-binding.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
-Button/LICENSE[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
-Button/easy-button.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Eas[0Ky
-Button/easy-button.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gra[0Kt
-icule/Graticule-binding.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gra[0Kt
-icule/L.Graticule.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Sim[0Kp
-leGraticule/L.SimpleGraticule.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Sim[0Kp
-leGraticule/L.SimpleGraticule.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Sim[0Kp
 leGraticule/SimpleGraticule-binding.js[0K
  create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ter[0Km
 inator/L.Terminator.js[0K
@@ -1029,4 +945,106 @@ no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
 s/G_Graduados[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-AC79A3FB/4A9B33CA.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hM[0Ka[0Kp[0Ka[0K[23G[22G[?25l$ git commit -m "Map[0K[?25h[?25l$ git commit -m "Ma[0K[?25hp[0Ka[0K[23G[?25l$ git commit -m "Mapa g[0K[?25hr[0Ka[0Kd[0Ku[0Ka[0Kd[0Ko[0Ks[0K[33G[?25l$ git commit -m "Mapa graduados 2[0K[?25h0[0K1[0K8[0K[38G[?25l$ git commit -m "Mapa graduados 2018 p[0K[?25hr[0Ke[0Kg[0Kr[0Ka[0Kd[0Ko[0K[47G[?25l$ git commit -m "Mapa graduados 2018 pregrado c[0K[?25hu[0Kn[0Kd[0Ki[0Kn[0Ka[0Km[0Ka[0Kr[0Kc[0Ka[0K"[0K[?25l
+[0K[?25h[master 728169c] Mapa graduados 2018 pregrado cundinamarca[0K[?25l
+ 7 files changed, 732 insertions(+), 731 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (87%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-504DFE52 => s-AC79A3FB}/4A9B33CA (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-504DFE52 => s-AC79A3FB}/4A9B33CA-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-504DFE52 => s-AC79A3FB}/lock_file (100%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 12, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects:  18% (2/11)[0K[1G[?25h[?25lCompressing objects:  27% (3/11)[0K[1G[?25hCompressing objects: 100% (11/11), done.[0K[?25l
+Writing objects: 100% (12/12), 5.16 KiB | 2.58 MiB/s, done.[0K
+Total 12 (delta 6), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  16% (1/6)[0K[1G[?25h[?25lremote: Resolving deltas:  83% (5/6)[0K[1G[?25hremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 1 vulnerability on estadisticaun/G_Graduados's default branch (1 mod[0Ke
+rate). To find out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Graduados/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Graduados.git[0K
+   15fa8bd..728169c  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC79A3FB/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC79A3FB/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC79A3FB/lock_file[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-3506BA56/[0m[0K
+        [0;31m20182/Nal/Postgrado/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hO[0Kb[0Kj[0Ke[0Kt[0Ko[0Ks[0K[26G[?25l$ git commit -m "Objetos g[0K[?25hr[0Ka[0Kf[0Ki[0Kc[0Ko[0Ks[0K[35G[?25l$ git commit -m "Objetos graficos g[0K[?25hr[0Ka[0Kd[0Ku[0Ka[0Kd[0Ko[0Ks[0K[45G[?25l$ git commit -m "Objetos graficos graduados d[0K[?25he[0K[48G[47G[?25l$ git commit -m "Objetos graficos graduados d[0K[?25h[?25l$ git commit -m "Objetos graficos graduados[0K[45G[?25h[?25l$ git commit -m "Objetos graficos graduados d[0K[?25he[0K[48G[?25l$ git commit -m "Objetos graficos graduados de p[0K[?25ho[0Ks[0Kt[0Kg[0Kr[0Ka[0Kd[0Ko[0K"[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC79A3FB/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC79A3FB/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC79A3FB/lock_file[0m[0K
+[0K
+Untracked files:[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-3506BA56/[0m[0K
+        [0;31m20182/Nal/Postgrado/[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduad[0Ko
+s/G_Graduados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Objetos graficos graduados de postgrado"[0K[?25h[?25l$ git status[0K[?25h[?25l$ git statu[0K[?25h[?25l$ git stat[0K[?25h[?25l$ git sta[0K[?25h[?25l$ git st[0K[?25h[?25l$ git s[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
