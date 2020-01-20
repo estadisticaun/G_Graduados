@@ -1,976 +1,956 @@
 
+et.markercluster/leaflet.markercluster-src.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke
-t.markercluster/MIT-LICENCE.txt.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaf[0Kl[?25l
+et.markercluster/leaflet.markercluster.freezable-src.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke[?25l
-t.markercluster/MarkerCluster.Default.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaf[0Kl[?25l
+et.markercluster/leaflet.markercluster.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke
-t.markercluster/MarkerCluster.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaf[0Kl[?25l
+et.markercluster/leaflet.markercluster.layersupport-src.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke
-t.markercluster/leaflet.markercluster-src.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj[0K4[?25l
+Leaflet/proj4-compressed.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke[?25l
-t.markercluster/leaflet.markercluster.freezable-src.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj[0K4
+Leaflet/proj4.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke[?25l
-t.markercluster/leaflet.markercluster.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaf[0Kl[?25l
+et-locationfilter/locationfilter-bindings.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leafl[0Ke[?25l
-t.markercluster/leaflet.markercluster.layersupport-src.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaf[0Kl
+et-locationfilter/locationfilter.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4[0KL[?25l
-eaflet/proj4-compressed.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaf[0Kl
+et-locationfilter/locationfilter.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4[0KL
-eaflet/proj4.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaf[0Kl[?25l
+et-providers-plugin/leaflet-providers-plugin.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leafl[0Ke[?25l
-t-locationfilter/locationfilter-bindings.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/EasyButto[0Kn
+-binding.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leafl[0Ke
-t-locationfilter/locationfilter.css.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/LICENSE.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leafl[0Ke
-t-locationfilter/locationfilter.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-butt[0Ko
+n.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leafl[0Ke
-t-providers-plugin/leaflet-providers-plugin.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-butt[0Ko
+n.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/EasyButton[0K-[?25l
-binding.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label-[0Ks
+rc.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/LICENSE.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.[0Kc
+ss.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-butto[0Kn
-.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-butto[0Kn
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label-s[0Kr
-c.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.c[0Ks
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.[0Kj
 s.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.j[0Ks
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.Mini[0KM
+ap.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.Mini[0KM
+ap.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Minimap-bind[0Ki
+ng.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/CONTRIBUT[0KI
+NG.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/README.md[0K.
+[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/bower.jso[0Kn
 .[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniM[0Ka
-p.css.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/leaflet-p[0Kr
+oviders.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniM[0Ka
-p.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/license.m[0Kd
+.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Minimap-bindi[0Kn
-g.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/package.j[0Ks
+on.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/CONTRIBUTI[0KN
-G.md.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/providers[0K.
+json.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/README.md.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leaflet-providers-plugin-1.1.0/lea[0Kf
+let-providers-plugin.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/bower.json[0K.
-[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/leafletfix-1.0.0/leafletfix.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/leaflet-pr[0Ko
-viders.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislide[0Kr[?25l
+.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/license.md[0K.
-[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislide[0Kr
+.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/package.js[0Ko
-n.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/pdfmake-1.10.16/pdfmake.min.js.[0K[?25l
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/providers.[0Kj
-son.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/proj4js-2.3.15/proj4.js.[0K[?25l
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leaflet-providers-plugin-1.1.0/leaf[0Kl
-et-providers-plugin.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.bootstr[0Ka
+p3.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/leafletfix-1.0.0/leafletfix.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislider[0K.[?25l
-min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislider[0K.
-min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/pdfmake-1.10.16/pdfmake.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/proj4js-2.3.15/proj4.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.bootstra[0Kp
-3.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.min.js.[0K
+warning: LF will be replaced by CRLF in 20192/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.min.js.[0K
 The file will have its original line endings in your working directory.[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hm[0Ka[0Kp[0Ka[0Ks[0K[24G[?25l$ git commit -m "mapas d[0K[?25he[0K[27G[?25l$ git commit -m "mapas de n[0K[?25ha[0Kc[0K[?25l$ git commit -m "mapas de na[0K[?25h[?25l$ git commit -m "mapas de n[0K[?25h[?25l$ git commit -m "mapas de[0K[27G[?25h[26G[?25l$ git commit -m "mapas d[0K[?25h[?25l$ git commit -m "mapas[0K[24G[?25h[?25l$ git commit -m "mapas m[0K[?25hu[0Kn[0K[28G[?25l$ git commit -m "mapas mun n[0K[?25ha[0Kc[0Ki[0Km[0Ki[0Ke[0Kn[0Kt[0Ko[0K"[0K[?25l
-[0K[?25h[master 93a7a2a] mapas mun nacimiento[0K[?25l
- 522 files changed, 106607 insertions(+), 1033 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/60F9C0F6 (95%)[0K
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hc[0Ka[0Kr[0Kg[0Ka[0K[24G[?25l$ git commit -m "carga g[0K[?25hr[0Ka[0Kd[0Ku[0Ka[0Kd[0Ko[0Ks[0K[34G[?25l$ git commit -m "carga graduados 2[0K[?25h0[0K1[0K9[0K2[0K"[0K[?25l
+[0K[?25h[master c1aeaaf] carga graduados 20192[0K[?25l
+ 526 files changed, 106822 insertions(+), 1039 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/60F9C0F6 (87%)[0K
  rewrite .Rproj.user/B994EF53/console06/INDEX001 (87%)[0K
- rename .Rproj.user/B994EF53/sources/{s-747FAAC0 => s-9DC65982}/4A9B33CA (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-747FAAC0 => s-9DC65982}/4A9B33CA-contents (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-747FAAC0 => s-9DC65982}/lock_file (100%)[0K
- create mode 100644 20191/Nal/Graduados/A_modalidad.html[0K
- create mode 100644 20191/Nal/Graduados/A_nacionalidad.html[0K
- create mode 100644 20191/Nal/Graduados/A_nivel.html[0K
- create mode 100644 20191/Nal/Graduados/A_sede.html[0K
- create mode 100644 20191/Nal/Graduados/A_sexo.html[0K
- create mode 100644 20191/Nal/Graduados/A_snies.html[0K
- create mode 100644 20191/Nal/Graduados/Nac_col1.html[0K
- create mode 100644 20191/Nal/Graduados/Nac_comb.html[0K
- create mode 100644 20191/Nal/Graduados/Nac_dpto.html[0K
- create mode 100644 20191/Nal/Graduados/Nac_mun.html[0K
- create mode 100644 20191/Nal/Graduados/S_modalidad.html[0K
- create mode 100644 20191/Nal/Graduados/S_nacionalidad.html[0K
- create mode 100644 20191/Nal/Graduados/S_nivel.html[0K
- create mode 100644 20191/Nal/Graduados/S_sede.html[0K
- create mode 100644 20191/Nal/Graduados/S_sexo.html[0K
- create mode 100644 20191/Nal/Graduados/S_snies.html[0K
- create mode 100644 20191/Nal/Graduados/Serie.html[0K
- create mode 100644 20191/Nal/Graduados/T_modalidad.html[0K
- create mode 100644 20191/Nal/Graduados/T_nacionalidad.html[0K
- create mode 100644 20191/Nal/Graduados/T_nivel.html[0K
- create mode 100644 20191/Nal/Graduados/T_sede.html[0K
- create mode 100644 20191/Nal/Graduados/T_sexo.html[0K
- create mode 100644 20191/Nal/Graduados/T_snies.html[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/datatables.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/datatables.yaml[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/css/autoFill.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/css/autoFill.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/css/autoFill.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/css/autoFill.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/css/autoFill.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/css/autoFill.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/js/autoFill.bootstrap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/js/autoFill.bootstrap4.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/js/autoFill.foundation.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/js/autoFill.jqueryui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/js/autoFill.semanticui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
-l/js/dataTables.autoFill.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/css/buttons.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/css/buttons.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/css/buttons.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/css/buttons.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/css/buttons.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/css/buttons.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.bootstrap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.bootstrap4.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.colVis.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.flash.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.foundation.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.html5.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.jqueryui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.print.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/buttons.semanticui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/dataTables.buttons.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/jszip.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/pdfmake.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/js/vfs_fonts.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
-/swf/flashExport.swf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/css/colReorder.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/css/colReorder.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/css/colReorder.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/css/colReorder.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/css/colReorder.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/css/colReorder.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
-der/js/dataTables.colReorder.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/css/fixedColumns.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/css/fixedColumns.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/css/fixedColumns.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/css/fixedColumns.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/css/fixedColumns.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/css/fixedColumns.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
-lumns/js/dataTables.fixedColumns.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/css/fixedHeader.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/css/fixedHeader.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/css/fixedHeader.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/css/fixedHeader.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/css/fixedHeader.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/css/fixedHeader.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
-ader/js/dataTables.fixedHeader.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/css/keyTable.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/css/keyTable.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/css/keyTable.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/css/keyTable.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/css/keyTable.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/css/keyTable.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
-e/js/dataTables.keyTable.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/css/responsive.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/css/responsive.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/css/responsive.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/css/responsive.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/css/responsive.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/css/responsive.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/js/dataTables.responsive.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/js/responsive.bootstrap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/js/responsive.bootstrap4.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/js/responsive.foundation.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/js/responsive.jqueryui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
-ive/js/responsive.semanticui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/css/rowGroup.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/css/rowGroup.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/css/rowGroup.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/css/rowGroup.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/css/rowGroup.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/css/rowGroup.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
-p/js/dataTables.rowGroup.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/css/rowReorder.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/css/rowReorder.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/css/rowReorder.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/css/rowReorder.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/css/rowReorder.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/css/rowReorder.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
-der/js/dataTables.rowReorder.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/css/scroller.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/css/scroller.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/css/scroller.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/css/scroller.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/css/scroller.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/css/scroller.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
-r/js/dataTables.scroller.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.bootstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.foundation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.jqueryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.semanticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-js/dataTables.select.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/n[0Ka
-tural.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
-light/dataTables.searchHighlight.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
-light/dataTables.searchHighlight.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
-light/jquery.highlight.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
-tstrap.extra.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
-tstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
-tstrap4.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.fo[0Ku
-ndation.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.jq[0Ku
-eryui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.ma[0Kt
-erial.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.se[0Km
-anticui.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.ui[0Kk
-it.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTa[0Kb
-les.extra.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTa[0Kb
-les.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.boo[0Kt
-strap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.boo[0Kt
-strap4.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.fou[0Kn
-dation.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jqu[0Ke
-ryui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.mat[0Ke
-rial.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.sem[0Ka
-nticui.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.uik[0Ki
-t.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTab[0Kl
-es.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider[0K.
-min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider[0K.
-min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstra[0Kp
-3.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.min[0K.
-css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.[0Kj
-s[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHigh[0Kl
-ight.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHigh[0Kl
-ight.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/motion[0K.
-css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/res[0Ke
-t.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/sym[0Kb
-ols-extra.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/tex[0Kt
--symbols.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K-
-3d.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K-
-more.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K.
-js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/modul[0Ke
-s/map.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ac[0Kc
-essibility.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/an[0Kn
-otations.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bo[0Ko
-st-canvas.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bo[0Ko
-st.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/br[0Ko
-ken-axis.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bu[0Kl
-let.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/da[0Kt
-a.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/dr[0Ka
-g-panes.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/dr[0Ki
-lldown.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ex[0Kp
-ort-data.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ex[0Kp
-orting.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/fu[0Kn
-nel.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ga[0Kn
-tt.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/gr[0Ki
-d-axis.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/he[0Ka
-tmap.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/hi[0Ks
-togram-bellcurve.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/it[0Ke
-m-series.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/no[0K-
-data-to-display.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/of[0Kf
-line-exporting.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ol[0Kd
-ie.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ov[0Ke
-rlapping-datalabels.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pa[0Kr
-allel-coordinates.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pa[0Kr
-eto.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sa[0Kn
-key.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/se[0Kr
-ies-label.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/so[0Kl
-id-gauge.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Ka
-tic-scale.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Ko
-ck.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Kr
-eamgraph.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/su[0Kn
-burst.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/tr[0Ke
-emap.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/va[0Kr
-iable-pie.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/va[0Kr
-iwide.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ve[0Kc
-tor.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wi[0Kn
-dbarb.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wo[0Kr
-dcloud.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/xr[0Ka
-nge.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/an[0Kn
-otations.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/dr[0Ka
-ggable-legend.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/dr[0Ka
-ggable-points.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/ex[0Kp
-ort-csv.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/gr[0Ko
-uped-categories.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/hi[0Kg
-hcharts-regression.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/mo[0Kt
-ion.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/mu[0Kl
-ticolor_series.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/pa[0Kt
-tern-fill-v2.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/to[0Ko
-ltip-delay.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/high[0Ks
-tock.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgrid.c[0Ks
-s[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/css/motion.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/custom/reset.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/highcharts.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
- create mode 100644 20191/Nal[0K[?25h/Graduados/libraryjs/highcharts-6.0.3/modules/annotations.js[0K[?25l
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/boost.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/data.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/stock.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/vector.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/jquery-1.11.1/jquery.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/jquery-1.12.4/jquery.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/jquery-1.12.4/jquery.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/jszip-1.10.16/jszip.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/images/1px.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/images/layers.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/leaflet.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-0.7.7/leaflet.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ke
-ot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ks
-vg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kt
-tf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kw
-off[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
-regular.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
-regular.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
-regular.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
-regular.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@2x.pn[0Kg
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/680EA241[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/INDEX[0K
+ rename .Rproj.user/B994EF53/sources/{s-9DC65982 => s-857F0478}/4A9B33CA (76%)[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA-contents[0K
+ rename .Rproj.user/B994EF53/sources/{s-9DC65982 => s-857F0478}/lock_file (100%)[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 20192/Nal/Graduados/A_modalidad.html[0K
+ create mode 100644 20192/Nal/Graduados/A_nacionalidad.html[0K
+ create mode 100644 20192/Nal/Graduados/A_nivel.html[0K
+ create mode 100644 20192/Nal/Graduados/A_sede.html[0K
+ create mode 100644 20192/Nal/Graduados/A_sexo.html[0K
+ create mode 100644 20192/Nal/Graduados/A_snies.html[0K
+ create mode 100644 20192/Nal/Graduados/Nac_col1.html[0K
+ create mode 100644 20192/Nal/Graduados/Nac_comb.html[0K
+ create mode 100644 20192/Nal/Graduados/Nac_dpto.html[0K
+ create mode 100644 20192/Nal/Graduados/Nac_mun.html[0K
+ create mode 100644 20192/Nal/Graduados/S_modalidad.html[0K
+ create mode 100644 20192/Nal/Graduados/S_nacionalidad.html[0K
+ create mode 100644 20192/Nal/Graduados/S_nivel.html[0K
+ create mode 100644 20192/Nal/Graduados/S_sede.html[0K
+ create mode 100644 20192/Nal/Graduados/S_sexo.html[0K
+ create mode 100644 20192/Nal/Graduados/S_snies.html[0K
+ create mode 100644 20192/Nal/Graduados/Serie.html[0K
+ create mode 100644 20192/Nal/Graduados/T_modalidad.html[0K
+ create mode 100644 20192/Nal/Graduados/T_nacionalidad.html[0K
+ create mode 100644 20192/Nal/Graduados/T_nivel.html[0K
+ create mode 100644 20192/Nal/Graduados/T_sede.html[0K
+ create mode 100644 20192/Nal/Graduados/T_sexo.html[0K
+ create mode 100644 20192/Nal/Graduados/T_snies.html[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.wof[0Kf
 [0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow@2x.p[0Kn
-g[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.cs[0Ks
-[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.mi[0Kn
-.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/death.pn[0Kg
-[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label-s[0Kr
-c.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.c[0Ks
-s[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.j[0Ks
-[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cancel[0K.
-png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cancel[0K_
-@2X.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check.[0Kp
-ng[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check_[0K@
-2X.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus.[0Kp
-ng[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus_[0K@
-2X.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/rulers[0K.
-png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/rulers[0K_
-@2X.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start.[0Kp
-ng[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start_[0K@
-2X.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash.[0Kp
-ng[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash_[0K@
-2X.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
-e.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
-e.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
-e.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omni[0Kv
-ore.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omni[0Kv
-ore.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/package.json[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTRIBUTIN[0KG
-.md[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/README.md[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower.json[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-fork[0K-
-ribbon.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-fork[0K-
-ribbon.ie.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leaflet-pro[0Kv
-iders.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/license.md[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/package.jso[0Kn
-[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/providers.j[0Ks
-on[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon-2x[0K.
-png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon.pn[0Kg
-[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-shadow.[0Kp
-ng[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
-niMap.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
-niMap.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
-niMap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
-niMap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Minimap-b[0Ki
-nding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/to[0Kg
-gle.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/to[0Kg
-gle.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/EasyBu[0Kt
-ton-binding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/LICENS[0KE
-[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-b[0Ku
-tton.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-b[0Ku
-tton.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/Graticu[0Kl
-e-binding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L.Grati[0Kc
-ule.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/L[0K.
-SimpleGraticule.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/L[0K.
-SimpleGraticule.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/S[0Ki
-mpleGraticule-binding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/L.Term[0Ki
-nator.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/Termin[0Ka
-tor-binding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
-otstrap-theme.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/datatables.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/datatables.yaml[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/css/autoFill.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/css/autoFill.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/css/autoFill.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/css/autoFill.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/css/autoFill.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/css/autoFill.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/js/autoFill.bootstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/js/autoFill.bootstrap4.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/js/autoFill.foundation.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/js/autoFill.jqueryui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/js/autoFill.semanticui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoF[0Ki
+ll/js/dataTables.autoFill.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/css/buttons.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/css/buttons.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/css/buttons.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/css/buttons.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/css/buttons.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/css/buttons.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.bootstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.bootstrap4.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.colVis.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.flash.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.foundation.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.html5.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.jqueryui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.print.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/buttons.semanticui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/dataTables.buttons.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/jszip.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/pdfmake.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/js/vfs_fonts.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Butto[0Kn
+s/swf/flashExport.swf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/css/colReorder.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/css/colReorder.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/css/colReorder.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/css/colReorder.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/css/colReorder.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/css/colReorder.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColRe[0Ko
+rder/js/dataTables.colReorder.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/css/fixedColumns.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/css/fixedColumns.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/css/fixedColumns.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/css/fixedColumns.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/css/fixedColumns.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/css/fixedColumns.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KC
+olumns/js/dataTables.fixedColumns.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/css/fixedHeader.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/css/fixedHeader.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/css/fixedHeader.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/css/fixedHeader.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/css/fixedHeader.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/css/fixedHeader.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fixed[0KH
+eader/js/dataTables.fixedHeader.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/css/keyTable.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/css/keyTable.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/css/keyTable.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/css/keyTable.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/css/keyTable.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/css/keyTable.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTa[0Kb
+le/js/dataTables.keyTable.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/css/responsive.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/css/responsive.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/css/responsive.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/css/responsive.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/css/responsive.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/css/responsive.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/js/dataTables.responsive.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/js/responsive.bootstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/js/responsive.bootstrap4.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/js/responsive.foundation.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/js/responsive.jqueryui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respo[0Kn
+sive/js/responsive.semanticui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/css/rowGroup.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/css/rowGroup.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/css/rowGroup.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/css/rowGroup.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/css/rowGroup.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/css/rowGroup.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGr[0Ko
+up/js/dataTables.rowGroup.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowRe[0Ko
+rder/css/rowReorder.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowRe[0Ko
+rder/css/rowReorder.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowRe[0Ko
+rder/css/rowReorder.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowRe[0Ko
+rder/css/rowReorder.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowRe[0Ko
+rder/css/rowReorder.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowRe[0Ko
+rder/css/rowReorder.semanticui.min.css[0K
+ rename .Rproj.user/B994EF53/sources/s-9DC65982/4A9B33CA-contents => 20192/Nal/Graduados/libraryjs/datat[0Ka
+bles-binding-0.4/lib/datatables-extensions/RowReorder/js/dataTables.rowReorder.min.js (100%)[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/css/scroller.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/css/scroller.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/css/scroller.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/css/scroller.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/css/scroller.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/css/scroller.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scrol[0Kl
+er/js/dataTables.scroller.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/css/select.bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/css/select.bootstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/css/select.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/css/select.foundation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/css/select.jqueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/css/select.semanticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Selec[0Kt
+/js/dataTables.select.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/[0Kn
+atural.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHi[0Kg
+hlight/dataTables.searchHighlight.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHi[0Kg
+hlight/dataTables.searchHighlight.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHi[0Kg
+hlight/jquery.highlight.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.b[0Ko
+otstrap.extra.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.b[0Ko
 otstrap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
-otstrap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nt-awesome.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/FontAwesome.otf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/fontawesome-webfont.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/fontawesome-webfont.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/fontawesome-webfont.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/fontawesome-webfont.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/glyphicons-halflings-regular.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/glyphicons-halflings-regular.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/glyphicons-halflings-regular.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/glyphicons-halflings-regular.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/ionicons.eot[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/ionicons.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/ionicons.ttf[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
-nts/ionicons.woff[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-matte.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-matte@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-plain.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-shadow.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-shadow@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-soft.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
-ages/markers-soft@2x.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Ko
-nicons.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
-aflet.awesome-markers.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
-aflet.awesome-markers.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
-aflet.awesome-markers.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/MIT[0K-
-LICENCE.txt[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
-erCluster.Default.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
-erCluster.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster-src.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster.freezable-src.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster.layersupport-src.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compre[0Ks
-sed.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leaflet[0K.
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.b[0Ko
+otstrap4.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.f[0Ko
+undation.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.j[0Kq
+ueryui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.m[0Ka
+terial.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.s[0Ke
+manticui.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.u[0Ki
+kit.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataT[0Ka
+bles.extra.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataT[0Ka
+bles.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bo[0Ko
+tstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bo[0Ko
+tstrap4.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.fo[0Ku
+ndation.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jq[0Ku
+eryui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.ma[0Kt
+erial.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.se[0Km
+anticui.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.ui[0Kk
+it.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTa[0Kb
+les.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislide[0Kr
+.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislide[0Kr
+.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstr[0Ka
+p3.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.cs[0Ks
+[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.mi[0Kn
+.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min[0K.
 js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
-/filter-icon.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
-/move-handle.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
-/resize-handle.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
-ationfilter-bindings.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
-ationfilter.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
-ationfilter.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin/[0Kl
-eaflet-providers-plugin.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/README.md[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/license.md[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/package.json[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugin[0K.
-js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/proj4js-2.3.15/proj4.js[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- create mode 100644 20191/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHig[0Kh
+light.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHig[0Kh
+light.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/motio[0Kn
+.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/re[0Ks
+et.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/sy[0Km
+bols-extra.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/te[0Kx
+t-symbols.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highchart[0Ks
+-3d.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highchart[0Ks
+-more.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highchart[0Ks
+.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/modu[0Kl
+es/map.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/a[0Kc
+cessibility.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/a[0Kn
+notations.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/b[0Ko
+ost-canvas.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/b[0Ko
+ost.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/b[0Kr
+oken-axis.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/b[0Ku
+llet.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/d[0Ka
+ta.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/d[0Kr
+ag-panes.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/d[0Kr
+illdown.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/e[0Kx
+port-data.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/e[0Kx
+porting.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/f[0Ku
+nnel.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/g[0Ka
+ntt.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/g[0Kr
+id-axis.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/h[0Ke
+atmap.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/h[0Ki
+stogram-bellcurve.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/i[0Kt
+em-series.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/n[0Ko
+-data-to-display.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/o[0Kf
+fline-exporting.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/o[0Kl
+die.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/o[0Kv
+erlapping-datalabels.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/p[0Ka
+rallel-coordinates.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/p[0Ka
+reto.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Ka
+nkey.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Ke
+ries-label.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Ko
+lid-gauge.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Kt
+atic-scale.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Kt
+ock.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Kt
+reamgraph.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/s[0Ku
+nburst.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/t[0Kr
+eemap.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/v[0Ka
+riable-pie.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/v[0Ka
+riwide.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/v[0Ke
+ctor.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/w[0Ki
+ndbarb.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/w[0Ko
+rdcloud.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/x[0Kr
+ange.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/a[0Kn
+notations.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/d[0Kr
+aggable-legend.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/d[0Kr
+aggable-points.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/e[0Kx
+port-csv.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/g[0Kr
+ouped-categories.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/h[0Ki
+ghcharts-regression.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/m[0Ko
+tion.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/m[0Ku
+lticolor_series.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/p[0Ka
+ttern-fill-v2.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/t[0Ko
+oltip-delay.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/hig[0Kh
+stock.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgrid.[0Kc
+ss[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/css/motion.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/custom/reset.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/highcharts.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/boost.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/data.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/stock.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/vector.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/jquery-1.11.1/jquery.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/jquery-1.12.4/jquery.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/jquery-1.12.4/jquery.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/jszip-1.10.16/jszip.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/images/1px.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/images/layers.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/leaflet.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-0.7.7/leaflet.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont[0K.
+eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont[0K.
+svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont[0K.
+ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont[0K.
+woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfling[0Ks
+-regular.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfling[0Ks
+-regular.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfling[0Ks
+-regular.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halfling[0Ks
+-regular.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@2x.p[0Kn
+g[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow@2x.[0Kp
+ng[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2x.pn[0Kg
+[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.c[0Ks
+s[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.j[0Ks
+[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.m[0Ki
+n.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/death.p[0Kn
+g[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label-[0Ks
+rc.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.[0Kc
+ss[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.[0Kj
+s[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cance[0Kl
+.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cance[0Kl
+_@2X.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check[0K.
+png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check[0K_
+@2X.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus[0K.
+png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus[0K_
+@2X.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ruler[0Ks
+.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/ruler[0Ks
+_@2X.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start[0K.
+png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start[0K_
+@2X.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash[0K.
+png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash[0K_
+@2X.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-meas[0Ku
+re.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-meas[0Ku
+re.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-meas[0Ku
+re.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omn[0Ki
+vore.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omn[0Ki
+vore.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/package.jso[0Kn
+[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTRIBUTI[0KN
+G.md[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/README.md[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower.json[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-for[0Kk
+-ribbon.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-for[0Kk
+-ribbon.ie.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leaflet-pr[0Ko
+viders.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/license.md[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/package.js[0Ko
+n[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/providers.[0Kj
+son[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon-2[0Kx
+.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon.p[0Kn
+g[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-shadow[0K.
+png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.[0KM
+iniMap.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.[0KM
+iniMap.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.[0KM
+iniMap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.[0KM
+iniMap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Minimap-[0Kb
+inding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/t[0Ko
+ggle.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/t[0Ko
+ggle.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/EasyB[0Ku
+tton-binding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/LICEN[0KS
+E[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-[0Kb
+utton.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-[0Kb
+utton.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/Gratic[0Ku
+le-binding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L.Grat[0Ki
+cule.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/[0KL
+.SimpleGraticule.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/[0KL
+.SimpleGraticule.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/[0KS
+impleGraticule-binding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/L.Ter[0Km
+inator.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/Termi[0Kn
+ator-binding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kb
+ootstrap-theme.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kb
+ootstrap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kb
+ootstrap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+ont-awesome.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/FontAwesome.otf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/fontawesome-webfont.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/fontawesome-webfont.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/fontawesome-webfont.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/fontawesome-webfont.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/glyphicons-halflings-regular.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/ionicons.eot[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/ionicons.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/ionicons.ttf[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kf
+onts/ionicons.woff[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-matte.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-matte@2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-plain.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-shadow.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-shadow@2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-soft.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-soft@2x.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+onicons.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kl
+eaflet.awesome-markers.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kl
+eaflet.awesome-markers.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kl
+eaflet.awesome-markers.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/MI[0KT
+-LICENCE.txt[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Ma[0Kr
+kerCluster.Default.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Ma[0Kr
+kerCluster.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+flet.markercluster-src.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+flet.markercluster.freezable-src.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+flet.markercluster.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+flet.markercluster.layersupport-src.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compr[0Ke
+ssed.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leafle[0Kt
+.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
+g/filter-icon.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
+g/move-handle.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
+g/resize-handle.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
+cationfilter-bindings.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
+cationfilter.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
+cationfilter.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin[0K/
+leaflet-providers-plugin.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugi[0Kn
+.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/proj4js-2.3.15/proj4.js[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
+ create mode 100644 20192/Nal/Graduados/libraryjs/selectize-0.12.0/selectize.min.js[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kh[0K[?25l$ git pu[0K[?25hs[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
 error: cannot spawn rpostback-askpass: No such file or directory[0K
-[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
 Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 36, done.[0K[?25l
+[0K[?25hCounting objects: 46, done.[0K[?25l
 Delta compression using up to 8 threads.[0K
-Compressing objects:  11% (4/34)[0K[1G[?25h[?25lCompressing objects:  70% (24/34)[0K[1G[?25hCompressing objects: 100% (34/34), done.[0K[?25l
-Writing objects:  58% (21/36)[0K[1G[?25h[?25lWriting objects:  58% (21/36), 984.00 KiB | 829.00 KiB/s[0K[1G[?25h[?25lWriting objects:  63% (23/36), 984.00 KiB | 829.00 KiB/s[0K[1G[?25h[?25lWriting objects:  66% (24/36), 984.00 KiB | 829.00 KiB/s[0K[1G[?25hWriting objects: 100% (36/36), 4.53 MiB | 2.04 MiB/s, done.[0K[?25l
-Total 36 (delta 22), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  50% (11/22)[0K[1G[?25h[?25lremote: Resolving deltas:  77% (17/22)[0K[1G[?25hremote: Resolving deltas: 100% (22/22), completed with 5 local objects.[0K[?25l
+Compressing objects: 100% (42/42), done.[0K
+Writing objects:  67% (31/46)[0K[1G[?25h[?25lWriting objects:  69% (32/46), 984.00 KiB | 1022.00 KiB/s[0K[1G[?25h[?25lWriting objects:  71% (33/46), 1.80 MiB | 1.21 MiB/s   /s[0K[1G[?25h[?25lWriting objects:  73% (34/46), 4.44 MiB | 2.24 MiB/s   /s[0K[1G[?25hWriting objects: 100% (46/46), 6.31 MiB | 2.43 MiB/s, done.[0K[?25l
+Total 46 (delta 20), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  90% (18/20)[0K[1G[?25hremote: Resolving deltas: 100% (20/20), completed with 4 local objects.[0K[?25l
 [0K[?25hremote:[0K[?25l
-remote: GitHub found 2 vulnerabilities on estadisticaun/G_Graduados's default branch (2 moderate). To fin[0Kd
- out more, visit:[0K
+remote: GitHub found 2 vulnerabilities on estadisticaun/G_Graduados's default branch (2 moderate). To fi[0Kn
+d out more, visit:[0K
 remote:      https://github.com/estadisticaun/G_Graduados/network/alerts[0K
 remote:[0K
 [0K[?25hTo https://github.com/estadisticaun/G_Graduados.git[0K[?25l
-   569c7e8..93a7a2a  master -> master[0K
+   93a7a2a..c1aeaaf  master -> master[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-[?25l$ H[0K[?25h[?25l$[0K[3G[?25h[?25l$ G[0K[?25hI[0KT[0K[7G[?25l$ GIT S[0K[?25hT[0KA[0KT[0K[?25l$ GIT STA[0K[?25h[?25l$ GIT ST[0K[?25h[?25l$ GIT S[0K[?25h[?25l$ GIT[0K[7G[?25h[6G[?25l$ GI[0K[?25h[?25l$ G[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+$[0K[3G[?25h[?25l$ G[0K[?25hI[0KT[0K[7G[?25l$ GIT S[0K[?25hT[0KAT[0KU[0KS[0K[?25l$ GIT STATU[0K[?25h[?25l$ GIT STAT[0K[?25h[?25l$ GIT STA[0K[?25h[?25l$ GIT ST[0K[?25h[?25l$ GIT S[0K[?25h[?25l$ GIT[0K[7G[?25h[6G[?25l$ GI[0K[?25h[?25l$ G[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Ks[0Kt[0K[8G[7G[?25l$ gis[0K[?25h[?25l$ gi[0K[?25ht[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
 [0K[?25hOn branch master[0K[?25l
 Your branch is up-to-date with 'origin/master'.[0K
 [0K
@@ -978,58 +958,82 @@ Changes not staged for commit:[0K
   (use "git add/rm <file>..." to update what will be committed)[0K
   (use "git checkout -- <file>..." to discard changes in working directory)[0K
 [0K
-        [0;31mmodified:   .Rhistory[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-9DC65982/4A9B33CA[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-9DC65982/4A9B33CA-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-9DC65982/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-792D2020/[0m[0K
-        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m ([0Km
-aster)[0m[0K
-$[0K[3G[?25h[?25l[2A[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
-aster)[0m[0K
-[?25l$ G[0K[?25hI[0KT[0K[7G[?25l$ GIT S[0K[?25hT[0KA[0KT[0KU[0KS[0K[?25l$ GIT STATU[0K[?25h[?25l$ GIT STAT[0K[?25h[?25l$ GIT STA[0K[?25h[?25l$ GIT ST[0K[?25h[?25l$ GIT S[0K[?25h[?25l$ GIT[0K[7G[?25h[6G[?25l$ GI[0K[?25h[?25l$ G[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rhistory[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-9DC65982/4A9B33CA[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-9DC65982/4A9B33CA-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-9DC65982/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-857F0478/[0m[0K
-        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
-        [0;31m20192/[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA-contents[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
 master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+[?25l$ G[0K[?25hI[0KT[0K[7G[?25l$ GIT S[0K[?25hT[0KA[0KT[0KU[0KS[0K[?25l$ GIT STATU[0K[?25h[?25l$ GIT STAT[0K[?25h[?25l$ GIT STA[0K[?25h[?25l$ GIT ST[0K[?25h[?25l$ GIT S[0K[?25h[?25l$ GIT[0K[7G[?25h[6G[?25l$ GI[0K[?25h[?25l$ G[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Ky[0K[?25l$ gi[0K[?25ht[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rhistory[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/lock_file[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/prop/68B4E05A[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/prop/D1D6D9DD[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-95EBF29/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+[?25l$ g[0K[?25hi[0Ky[0K[7G[6G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rhistory[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/60F9C0F6[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/4A9B33CA-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-857F0478/lock_file[0m[0K
+        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   20191/Nal/Pregrado/Nac_col1.html[0m[0K
+        [0;31mmodified:   20191/Nal/Pregrado/Nac_comb.html[0m[0K
+        [0;31mmodified:   20191/Nal/Pregrado/Nac_dpto.html[0m[0K
+        [0;31mmodified:   20191/Nal/Pregrado/Nac_mun.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/prop/68B4E05A[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/prop/D1D6D9DD[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-A5CF8D54/[0m[0K
+        [0;31m20192/Nal/Pregrado/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Graduados/G_Graduados[0;36m [0K(
+master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0K[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h

@@ -1,0 +1,677 @@
+##############################################################################
+#                                                                            #  
+#  PROGRAMA PARA LA CONSTRUCCIÓN DE LOS OBJETOS GRÁFICOS REQUERIDOS PARA LA  #
+#    DISPOSICIÓN DE LAS ESTADÍSTICAS DE ESTUDISNTES GRADUADOS EN PREGRADO    #         
+#                                                                            #
+##############################################################################
+
+# Paquetes y versiones requeridas
+
+library(tidyverse)   # version 1.2.1
+library(readxl)      # version 1.0.0
+library(DT)          # version 0.4
+library(highcharter) # version 0.5.0.9999
+library(treemap) # version 2.4-2
+
+# Ejecutar el script de funciones 
+
+source("Funciones.R", encoding = 'UTF-8')
+
+# Construcción de objetos gráficos por desagregación
+
+# Parámetros para el periodo de trabajo seleccionado
+
+ano <- 2019
+semestre <- 1 # 1 o 2 según corresponda
+periodo_actual_titulo <- " 2019-I"
+
+
+###############################
+# Desagregaciones temáticas:
+###############################
+
+
+# Evolución histórica total de docentes ----------------------------
+
+col <-   c("#8cc63f") # verde, Total
+
+EVOLUCION_SERIE <- series(
+  datos = Consolidado,
+  categoria = "TOTAL",
+  colores = col,
+  titulo = "Evolución histórica del total de estudiantes graduados en pregrado ",
+  eje = "Número de estudiantes (k: miles)"
+);EVOLUCION_SERIE
+
+saveWidget(EVOLUCION_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "Serie.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+# Sedes  -----------------------------------------------
+
+
+col <-   c( "#29abe2", # azul claro, Amazonía
+            "#8cc63f", # verde, Bogotá
+            "#c1272d", # rojo, Caribe 
+            "#0071bc", # azul vivo, Manizales
+            "#f15a24", # naranja, Medellín
+            "#fbb03b", # amarillo, Orinoquía 
+            "#93278f", # Morado, Palmira
+            "#6d6666"  # gris, Tumaco 
+) 
+
+################ 1. Tabla
+
+SEDE_NOMBRE_MAT_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "SEDE_NOMBRE_ADM",
+  variable = 'Total estudiantes en pregrado por sede de graduación',
+  mensaje = "Total de estudiantes en pregrado por sede de graduación",
+  titulo = "Sede estudiantes graduados pregrado"
+);SEDE_NOMBRE_MAT_TABLA
+
+saveWidget(SEDE_NOMBRE_MAT_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_sede.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+SEDE_NOMBRE_MAT_SERIE <- series(
+  datos = Consolidado,
+  categoria = "SEDE_NOMBRE_ADM",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por sedes",
+  eje = "Número de graduados (k: miles)"
+);SEDE_NOMBRE_MAT_SERIE
+
+
+saveWidget(SEDE_NOMBRE_MAT_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_sede.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+################ 3. Actual
+
+SEDE_NOMBRE_MAT_BARRA <- barra_horizontal(
+  datos = Consolidado %>% 
+    filter(is.na(Clase)==FALSE),
+  categoria = "SEDE_NOMBRE_ADM",
+  colores = col,
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo,
+  titulo = "Distribución de graduados en pregrado por sedes de la Universidad", 
+  eje = "Número de graduados"); SEDE_NOMBRE_MAT_BARRA
+
+
+saveWidget(SEDE_NOMBRE_MAT_BARRA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_sede.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+
+# Nacionalidad --------------------------------------------------------------------
+
+col <-   c( "#8cc63f", # verde, Colombiana
+            "#f15a24", # naranja, Extranjero
+            "#0071bc") # azul vivo, sin información
+
+
+################ 1. Tabla
+
+NACIONALIDAD_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "NACIONALIDAD",
+  variable = 'Total estudiantes graduados en pregrado según nacionalidad',
+  mensaje = "Número de estudiantes graduados en pregrado por nacionalidad",
+  titulo = "Matriculados según nacionalidad"
+);NACIONALIDAD_TABLA
+
+
+saveWidget(NACIONALIDAD_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_nacionalidad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+################ 2. Serie
+
+NACIONALIDAD_SERIE <- series(
+  datos = Consolidado,
+  categoria = "NACIONALIDAD",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado según nacionalidad",
+  eje = "Número de graduados (k: miles)"
+);NACIONALIDAD_SERIE
+
+
+saveWidget(NACIONALIDAD_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_nacionalidad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+NACIONALIDAD_TORTA <- torta(
+  datos = Consolidado,
+  variable = "NACIONALIDAD",
+  colores = col,
+  titulo = "Distribución de graduados en pregrado según nacionalidad",
+  etiqueta = "Número de graduados",
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo
+);NACIONALIDAD_TORTA
+
+saveWidget(NACIONALIDAD_TORTA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_nacionalidad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+# Sexo --------------------------------------------------------------------
+
+col <-   c( "#f15a24", # naranja, hombres
+            "#8cc63f") # verde, mujeres
+
+################ 1. Tabla
+
+SEXO_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "SEXO",
+  variable = 'Total graduados en pregrado por sexo',
+  mensaje = "Número de graduados en pregrado por sexo",
+  titulo = "Graduados en pregrado por sexo"
+);SEXO_TABLA
+
+
+saveWidget(SEXO_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_sexo.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+################ 2. Serie
+
+SEXO_SERIE <- series(
+  datos = Consolidado,
+  categoria = "SEXO",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por sexo",
+  eje = "Número de graduados (k: miles)"
+);SEXO_SERIE
+
+
+saveWidget(SEXO_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_sexo.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+SEXO_TORTA <- torta(
+  datos = Consolidado,
+  variable = "SEXO",
+  colores = col,
+  titulo = "Distribución de graduados en pregrado por sexo",
+  etiqueta = "Número de graduados",
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo
+);SEXO_TORTA
+
+saveWidget(SEXO_TORTA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_sexo.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+# Edad --------------------------------------------------------------------
+
+col <-   c( "#8cc63f", # verde, 17 o menos
+            "#f15a24", # naranja,  18 a 20 
+            "#0071bc", # azul vivo, 21 a 25
+            "#6d6666", # gris, 26 o más
+            "#fbb03b" ) # amarillo, sin información
+
+
+################ 1. Tabla
+
+CAT_EDAD_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "CAT_EDAD",
+  variable = 'Total graduados en pregrado por grupos de edad',
+  mensaje = "Número de graduados en pregrado por grupos de edad",
+  titulo = "Graduados en pregrado por grupos de edad"
+);CAT_EDAD_TABLA
+
+saveWidget(CAT_EDAD_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_edad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+CAT_EDAD_SERIE <- series(
+  datos = Consolidado,
+  categoria = "CAT_EDAD",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por grupos de edad",
+  eje = "Número de graduados (k: miles)"
+);CAT_EDAD_SERIE
+
+saveWidget(CAT_EDAD_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_edad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+CAT_EDAD_BARRA <- barra_vertical(
+  datos = Consolidado,
+  categoria = "CAT_EDAD",
+  colores = col,
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo,
+  titulo = "Distribución de graduados en pregrado por grupos de edad",
+  eje = "Número de graduados (k: miles)"
+); CAT_EDAD_BARRA
+
+saveWidget(CAT_EDAD_BARRA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_edad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+# Estrato --------------------------------------------------------------------
+
+col <-   c( "#8cc63f", # verde, Estrato 2 o menos
+            "#f15a24", # naranja, Estrato 3
+            "#0071bc", # azul vivo, Estrato 4 o más
+            "#6d6666" # gris, ND/NE
+)
+
+
+################ 1. Tabla
+
+ESTRATO_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "ESTRATO",
+  variable = 'Total de graduados en pregrado por estrato socioeconómico',
+  mensaje = "Número de graduados en pregrado por estrato",
+  titulo = "Graduados en pregrado por estrato"
+);ESTRATO_TABLA
+
+saveWidget(ESTRATO_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_estrato.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+ESTRATO_SERIE <- series(
+  datos = Consolidado,
+  categoria = "ESTRATO",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por estrato socioeconómico",
+  eje = "Número de graduados (k: miles)"
+);ESTRATO_SERIE
+
+saveWidget(ESTRATO_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_estrato.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+ESTRATO_BARRA <- barra_vertical(
+  datos = Consolidado,
+  categoria = "ESTRATO",
+  colores = col,
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo,
+  titulo = "Distribución de graduados en pregrado por estrato socioeconómico",
+  eje = "Número de graduados (k: miles)"
+); ESTRATO_BARRA
+
+saveWidget(ESTRATO_BARRA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_estrato.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+# Modalidad de admisión --------------------------------------------------------------------
+
+col <-   c( "#f15a24",  # naranja, Especial
+            "#8cc63f" # verde, Regular
+)
+
+
+################ 1. Tabla
+
+MOD_ADM_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "MOD_ADM",
+  variable = 'Total graduados en pregrado según modalidad de admisión',
+  mensaje = "Número de graduados en pregrado según modalidad de admisión",
+  titulo = "Graduados en pregrado según modalidad de admisión"
+);MOD_ADM_TABLA
+
+saveWidget(MOD_ADM_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_modalidad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+MOD_ADM_SERIE <- series(
+  datos = Consolidado,
+  categoria = "MOD_ADM",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por modalidad de admisión",
+  eje = "Número de graduados (k: miles)"
+);MOD_ADM_SERIE
+
+saveWidget(MOD_ADM_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_modalidad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+MOD_ADM_TORTA <- torta(
+  datos = Consolidado,
+  variable = "MOD_ADM",
+  colores = col,
+  titulo = "Distribución de graduados en pregrado según modalidad de admisión",
+  etiqueta = "Número de graduados",
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo
+);MOD_ADM_TORTA
+
+saveWidget(MOD_ADM_TORTA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_modalidad.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+
+# tipo de admisión --------------------------------------------------------------------
+
+col <-   c( "#f15a24", # naranja, PAES
+            "#6d6666", # gris, PEAA
+            "#0071bc", # azul vivo, PEAMA
+            "#8cc63f" # verde, Regular
+)
+
+
+################ 1. Tabla
+
+TIPO_ADM_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "TIPO_ADM",
+  variable = 'Total graduados en pregrado por programa de admisión',
+  mensaje = "Número de graduados en pregrado por programa de admisión",
+  titulo = "Graduados en pregrado por programa de admisión"
+);TIPO_ADM_TABLA
+
+saveWidget(TIPO_ADM_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_tipo.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+TIPO_ADM_SERIE <- series(
+  datos = Consolidado,
+  categoria = "TIPO_ADM",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por programa de admisión",
+  eje = "Número de graduados (k: miles)"
+);TIPO_ADM_SERIE
+
+saveWidget(TIPO_ADM_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_tipo.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+TIPO_ADM_TORTA <- torta(
+  datos = Consolidado,
+  variable = "TIPO_ADM",
+  colores = col,
+  titulo = "Distribución de graduados en pregrado por programa de admisión",
+  etiqueta = "Número de graduados",
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo
+);TIPO_ADM_TORTA
+
+saveWidget(TIPO_ADM_TORTA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_tipo.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+# PAES --------------------------------------------------------------------
+
+
+col <-   c( "#0071bc", # azul vivo, comunidades indigenas
+            "#fbb03b", # amarillo, mejores bachilleres
+            "#6d6666",  # gris, mejores bachilleres municipios pobres 
+            "#f15a24", # naranja, población afro
+            "#8cc63f"  # verde, victimas del conflicto
+)
+
+################ 1. Tabla
+
+PAES_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "PAES",
+  variable = 'Total graduados en pregrado programa PAES',
+  mensaje = "Número de graduados en pregrado del programa PAES",
+  titulo = "Graduados en pregrado del programa PAES"
+);PAES_TABLA
+
+saveWidget(PAES_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_paes.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+PAES_SERIE <- series(
+  datos = Consolidado,
+  categoria = "PAES",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado del programa PAES",
+  eje = "Número de graduados (k: miles)"
+);PAES_SERIE
+
+saveWidget(PAES_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_paes.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+PAES_BARRA <- barra_vertical(
+  datos = Consolidado,
+  categoria = "PAES",
+  colores = col,
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo,
+  titulo = "Distribución de graduados en pregrado del programa PAES",
+  eje = "Número de graduados (k: miles)"
+); PAES_BARRA
+
+saveWidget(PAES_BARRA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_paes.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+# PEAMA -------------------------------------------------------------------
+
+col <-   c( "#29abe2", # azul claro, Amazonía
+            "#c1272d", # Rojo, Caribe
+            "#fbb03b", # amarillo, Orinoquia
+            "#8cc63f", # verde, Bogotá - Sumapaz
+            "#0071bc", # azul vivo, Manizales
+            "#6d6666" # gris, Tumaco
+)
+
+
+################ 1. Tabla
+
+PEAMA_TABLA <- tabla(
+  datos = Consolidado %>% 
+    filter(is.na(Clase)==FALSE),
+  categoria = "PEAMA",
+  variable = 'Total graduados en pregrado programa PEAMA',
+  mensaje = "Número de graduados en pregrado programa PEAMA",
+  titulo = "Graduados en pregrado programa PEAMA"
+);PEAMA_TABLA
+
+saveWidget(PEAMA_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_peama.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+PEAMA_SERIE <- series(
+  datos = Consolidado %>% 
+    filter(is.na(Clase)==FALSE),
+  categoria = "PEAMA",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado del programa PEAMA",
+  eje = "Número de graduados"
+);PEAMA_SERIE
+
+saveWidget(PEAMA_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_peama.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 3. Actual
+
+PEAMA_BARRA <- barra_horizontal(
+  datos = Consolidado %>% 
+    filter(is.na(Clase)==FALSE),
+  categoria = "PEAMA",
+  colores = col,
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo,
+  titulo = "Distribución de graduados en pregrado del programa PEAMA", 
+  eje = "Número de graduados"); PEAMA_BARRA
+
+
+saveWidget(PEAMA_BARRA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_peama.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+# Área SNIES --------------------------------------------------------------
+
+col <-   c( "#93278f", # morado, agronomia..
+            "#29abe2", # azul claro, bellas artes
+            "#fbb03b", # amarillo, ciencias de...
+            "#f15a24", # naranja, ciencias sociales...
+            "#0071bc", # azul vivo, economia...
+            "#8cc63f", # verde, ingenieria...
+            "#6d6666", # gris, matemáticas...
+            "#c1272d"  # rojo, sin informacion
+)
+
+
+################ 1. Tabla
+
+AREAC_SNIES_TABLA <- tabla(
+  datos = Consolidado,
+  categoria = "AREAC_SNIES",
+  variable = 'Total graduados en pregrado por áreas del conocimiento SNIES',
+  mensaje = "Total de graduados en pregrado por áreas del conocimiento SNIES",
+  titulo = "Sede graduados en pregrado por áreas del conocimiento SNIES"
+);AREAC_SNIES_TABLA
+
+saveWidget(AREAC_SNIES_TABLA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "T_snies.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+################ 2. Serie
+
+AREAC_SNIES_SERIE <- series(
+  datos = Consolidado,
+  categoria = "AREAC_SNIES",
+  colores = col,
+  titulo = "Evolución del número de graduados en pregrado por áreas del conocimiento SNIES",
+  eje = "Número de graduados (k: miles)"
+);AREAC_SNIES_SERIE
+
+
+saveWidget(AREAC_SNIES_SERIE,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "S_snies.html"),
+           selfcontained = F, libdir = "libraryjs")
+
+
+################ 3. Actual
+
+AREAC_SNIES_BARRA <- barra_horizontal(
+  datos = Consolidado %>% 
+    filter(is.na(Clase)==FALSE),
+  categoria = "AREAC_SNIES",
+  colores = col,
+  ano = ano,
+  periodo = semestre,
+  periodo_titulo = periodo_actual_titulo,
+  titulo = "Distribución de graduados en pregrado por áreas del conocimiento SNIES", 
+  eje = "Número de graduados"); AREAC_SNIES_BARRA
+
+
+saveWidget(AREAC_SNIES_BARRA,
+           file = file.path(str_sub(getwd(), 1, str_length(getwd())-12),
+                            "G_Graduados/20191/Nal/Pregrado",
+                            "A_snies.html"),
+           selfcontained = F, libdir = "libraryjs")
+
